@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d951f3184dbf0337",
+        "id": "f7afba28a65ee11b",
         "type": "tabs",
         "children": [
           {
-            "id": "e891c450b75e9dff",
+            "id": "516c525898d5c129",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,9 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58c5ed09906e2534",
+  "active": "516c525898d5c129",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-28 00.41.51.excalidraw.md",
+    "2024-07-28.md",
     "유용한 사이트 모음.md",
+    "Excalidraw",
     "smart-chats"
   ]
 }
