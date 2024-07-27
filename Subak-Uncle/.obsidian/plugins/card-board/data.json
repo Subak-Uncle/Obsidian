@@ -8,59 +8,45 @@
             "tag": "undated",
             "data": {
               "collapsed": false,
-              "name": "Undated"
+              "name": "TODO"
             }
           },
           {
-            "tag": "dated",
+            "tag": "untagged",
             "data": {
               "collapsed": false,
-              "name": "Today",
-              "range": {
-                "tag": "before",
-                "data": 1
-              }
-            }
-          },
-          {
-            "tag": "dated",
-            "data": {
-              "collapsed": false,
-              "name": "Tomorrow",
-              "range": {
-                "tag": "between",
-                "data": {
-                  "from": 1,
-                  "to": 1
-                }
-              }
-            }
-          },
-          {
-            "tag": "dated",
-            "data": {
-              "collapsed": false,
-              "name": "Future",
-              "range": {
-                "tag": "after",
-                "data": 1
-              }
+              "name": "TODO.1"
             }
           },
           {
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 4,
+              "index": 2,
               "limit": 10,
-              "name": "Completed"
+              "name": "완료된 Tasks"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "진행중인 Tasks",
+              "tag": "InProgress"
+            }
+          },
+          {
+            "tag": "otherTags",
+            "data": {
+              "collapsed": false,
+              "name": "취소된 Tasks"
             }
           }
         ],
         "filters": [],
         "filterPolarity": "Allow",
         "filterScope": "Both",
-        "name": "Tasks",
+        "name": "Task",
         "showColumnTags": true,
         "showFilteredTags": true
       }
