@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7afba28a65ee11b",
+        "id": "1f7b030f43e7f509",
         "type": "tabs",
         "children": [
           {
-            "id": "516c525898d5c129",
+            "id": "03328f3a6ae7e4b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +187,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "516c525898d5c129",
+  "active": "03328f3a6ae7e4b0",
   "lastOpenFiles": [
-    "@.md",
     "유용한 사이트 모음.md",
+    "@.md",
     "Excalidraw/Drawing 2024-07-28 00.41.51.excalidraw.md",
     "2024-07-28.md",
     "Excalidraw",
