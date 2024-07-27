@@ -1,6 +1,6 @@
 {
   "globalQuery": "",
-  "globalFilter": "TODO",
+  "globalFilter": "",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": false,
