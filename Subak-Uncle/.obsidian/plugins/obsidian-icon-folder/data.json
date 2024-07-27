@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiApple",
       "LiAlignJustify"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +30,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "유용한 사이트 모음.md": "LiAlignJustify"
+  "유용한 사이트 모음.md": "LiAlignJustify",
+  "smart-chats": "LiApple"
 }
