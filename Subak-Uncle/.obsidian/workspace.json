@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e207d8ed6c4b7d4d",
+        "id": "d951f3184dbf0337",
         "type": "tabs",
         "children": [
           {
-            "id": "dd74f38b559beb44",
+            "id": "e891c450b75e9dff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "유용한 사이트 모음.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "유용한 사이트 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "유용한 사이트 모음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "유용한 사이트 모음.md"
+              }
             }
           },
           {
@@ -155,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,11 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "templater-obsidian:Templater": false,
+      "card-board:CardBoard": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00ac76264c3f65fc",
+  "active": "58c5ed09906e2534",
   "lastOpenFiles": [
+    "유용한 사이트 모음.md",
     "smart-chats"
   ]
 }
