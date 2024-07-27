@@ -5,12 +5,16 @@
       "path": "daily-note/2024-07-28.md"
     },
     {
+      "basename": "todo",
+      "path": "templates/todo.md"
+    },
+    {
       "basename": "2024-07-27",
       "path": "daily-note/2024-07-27.md"
     },
     {
-      "basename": "todos",
-      "path": "templates/todos.md"
+      "basename": "유용한 사이트 모음",
+      "path": "유용한 사이트 모음.md"
     },
     {
       "basename": "마크다운 글자색",
@@ -19,10 +23,6 @@
     {
       "basename": "Drawing 2024-07-28 01.23.28.excalidraw",
       "path": "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md"
-    },
-    {
-      "basename": "유용한 사이트 모음",
-      "path": "유용한 사이트 모음.md"
     },
     {
       "basename": "나중에 공부할 내용",

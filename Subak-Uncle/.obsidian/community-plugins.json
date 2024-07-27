@@ -11,12 +11,12 @@
   "metadata-menu",
   "editing-toolbar",
   "templater-obsidian",
-  "card-board",
   "code-styler",
   "obsidian-minimal-settings",
   "darlal-switcher-plus",
   "obsidian-pandoc",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-tasks-plugin"
 ]

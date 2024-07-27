@@ -30,20 +30,12 @@
             }
           },
           {
-            "id": "a47f6b9c6951b712",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
             "id": "b4a84dff35e4eb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유용한 사이트 모음.md",
+                "file": "daily-note/2024-07-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "templates/todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,6 +66,7 @@
       {
         "id": "289a37180fba0303",
         "type": "tabs",
+        "dimension": 73.81422924901186,
         "children": [
           {
             "id": "cf4b47c855f84665",
@@ -84,14 +77,21 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1f67b8fbadd367e9",
+        "type": "tabs",
+        "dimension": 26.18577075098814,
+        "children": [
           {
             "id": "e5515159cf4470a6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,17 +213,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9de15e35f084068d",
+  "active": "e5515159cf4470a6",
   "lastOpenFiles": [
-    "daily-note/2024-07-27.md",
+    "templates/todo.md",
     "daily-note/2024-07-28.md",
-    "templates/todos.md",
+    "daily-note/2024-07-27.md",
+    "유용한 사이트 모음.md",
+    "무제 파일.md",
     "templates",
     "마크다운 글자색.md",
     "daily-note",
     "2024-07-28.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
-    "유용한 사이트 모음.md",
     "나중에 공부할 내용.md",
     "Tasks.md",
     "@.md",
