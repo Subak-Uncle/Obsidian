@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "8a33db3abdd90aad",
+            "id": "a47f6b9c6951b712",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
@@ -48,9 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9de15e35f084068d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,12 +131,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48bc89b39de290ce",
+            "id": "58c5ed09906e2534",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "ff4fe351ead52d1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "669f5e3847fff264",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유용한 사이트 모음.md",
+                "file": "2024-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,64 +167,28 @@
             }
           },
           {
-            "id": "7635846236346048",
+            "id": "cd1a03c58df835b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유용한 사이트 모음.md",
+                "file": "2024-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "58c5ed09906e2534",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "53cadb1e7785bde3",
+            "id": "9cf760fd9419c9ac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "유용한 사이트 모음.md"
+                "file": "2024-07-28.md"
               }
             }
-          },
-          {
-            "id": "b3771e96010e5e81",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad1c011942e0accd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "00ac76264c3f65fc",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,16 +213,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8a33db3abdd90aad",
+  "active": "9de15e35f084068d",
   "lastOpenFiles": [
+    "마크다운 글자색.md",
+    "2024-07-28.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "유용한 사이트 모음.md",
-    "마크다운 글자색.md",
     "나중에 공부할 내용.md",
     "Tasks.md",
     "@.md",
     "Excalidraw/Drawing 2024-07-28 00.41.51.excalidraw.md",
-    "2024-07-28.md",
     "Excalidraw",
     "smart-chats"
   ]
