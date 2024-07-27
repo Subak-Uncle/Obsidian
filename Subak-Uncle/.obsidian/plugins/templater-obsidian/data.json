@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "templates",
+      "template": "templates/todos.md"
     }
   ],
   "syntax_highlighting": true,
@@ -25,7 +25,6 @@
     ""
   ],
   "startup_templates": [
-    "templates/todos.md",
     ""
   ]
 }
