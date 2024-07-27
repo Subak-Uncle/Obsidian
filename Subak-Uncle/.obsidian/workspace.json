@@ -178,20 +178,21 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "templater-obsidian:Templater": false,
-      "card-board:CardBoard": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "516c525898d5c129",
   "lastOpenFiles": [
+    "@.md",
+    "유용한 사이트 모음.md",
     "Excalidraw/Drawing 2024-07-28 00.41.51.excalidraw.md",
     "2024-07-28.md",
-    "유용한 사이트 모음.md",
     "Excalidraw",
     "smart-chats"
   ]
