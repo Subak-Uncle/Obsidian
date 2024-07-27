@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "마크다운 글자색.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "마크다운 글자색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "마크다운 글자색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024-07-28.md"
+                "file": "마크다운 글자색.md"
               }
             }
           }
@@ -213,12 +213,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e5515159cf4470a6",
+  "active": "b4a84dff35e4eb8a",
   "lastOpenFiles": [
-    "templates/todo.md",
-    "daily-note/2024-07-28.md",
-    "daily-note/2024-07-27.md",
     "유용한 사이트 모음.md",
+    "daily-note/2024-07-28.md",
+    "templates/todo.md",
+    "daily-note/2024-07-27.md",
     "무제 파일.md",
     "templates",
     "마크다운 글자색.md",

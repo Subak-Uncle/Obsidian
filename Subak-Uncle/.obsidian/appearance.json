@@ -1,4 +1,5 @@
 {
-  "theme": "moonstone",
-  "translucency": false
+  "theme": "system",
+  "translucency": false,
+  "cssTheme": "AnuPpuccin"
 }
