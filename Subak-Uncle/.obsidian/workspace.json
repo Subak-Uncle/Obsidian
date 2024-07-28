@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md"
+                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
               }
             }
           }
@@ -204,6 +204,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Todoist": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -215,15 +217,16 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7581f5550df336a8",
   "lastOpenFiles": [
-    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+    "01. 🗓️ Project/BootBox",
+    "01. 🗓️ Project/Adregamdi",
+    "01. 🗓️ Project/RunningHi",
+    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
     "02. 🏙️ Area/daily-note/2024-07-29.md",
@@ -241,10 +244,7 @@
     "03. ⭐️ Resource/Information",
     "03. ⭐️ Resource/About-Obsidian",
     "03. ⭐️ Resource",
-    "02. 🏙️ Area",
-    "01. 🗓️ Project",
     "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
-    "02. 🏙️ Area/Tasks",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
     "Tasks.md",
