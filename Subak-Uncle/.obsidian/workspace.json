@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "500b82562408c152",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "b4a84dff35e4eb8a",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +178,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,16 +205,16 @@
   },
   "active": "b4a84dff35e4eb8a",
   "lastOpenFiles": [
+    "daily-note/2024-07-27.md",
+    "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
+    "daily-note/2024-07-28.md",
     "유용한 사이트 모음.md",
     "마크다운 글자색.md",
-    "daily-note/2024-07-28.md",
     "templates/todo.md",
-    "daily-note/2024-07-27.md",
     "무제 파일.md",
     "templates",
     "daily-note",
     "2024-07-28.md",
-    "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "나중에 공부할 내용.md",
     "Tasks.md",
     "@.md",
