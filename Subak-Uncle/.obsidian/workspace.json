@@ -11,14 +11,11 @@
             "id": "40d219f7a55f6feb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tasks-Canvas.canvas",
-                "viewState": {
-                  "x": 233.68230595952886,
-                  "y": -1095.4468266258968,
-                  "zoom": -0.9656145685844029
-                }
+                "file": "03. ⭐️ Resource/AI/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -124,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "03. ⭐️ Resource/AI/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "03. ⭐️ Resource/AI/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
+                "file": "03. ⭐️ Resource/AI/무제 파일.md"
               }
             }
           }
@@ -188,8 +185,14 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "cf4b47c855f84665",
+  "active": "40d219f7a55f6feb",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/docs/FCM 설정 트러블 슈팅.md",
+    "03. ⭐️ Resource/AI/무제 파일.md",
+    "03. ⭐️ Resource/AI",
+    "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
+    "05. 🖼️ images/image-20240409142239777.png",
+    "Tasks-Canvas.canvas",
     "01. 🗓️ Project/RunningHi/docs",
     "03. ⭐️ Resource/issueTemplate/discussion.md",
     "03. ⭐️ Resource/issueTemplate/PR템플릿.md",
@@ -199,7 +202,6 @@
     "03. ⭐️ Resource/issueTemplate",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "Tasks-Canvas.canvas",
     "02. 🏙️ Area/daily-note/2024-07-29.md",
     "Note Rule.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
@@ -219,16 +221,13 @@
     "01. 🗓️ Project/RunningHi",
     "custom-background.css",
     "color-extend.css",
-    "04. 🐝 Archives",
     "03. ⭐️ Resource/Information/마크다운 글자색.md",
     "05. 🖼️ images/Pasted image 20240728235555.png",
     "Pasted image 20240728235528.png",
     "05. 🖼️ images/Pasted image 20240728235153.png",
-    "05. 🖼️ images",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
     "Tasks.md",
-    "@.md",
-    "Excalidraw/Drawing 2024-07-28 00.41.51.excalidraw.md"
+    "@.md"
   ]
 }
