@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/Bootb.md",
+                "file": "Note Rule.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfd34d4b3d882f59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/Bootb.md",
+                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/Bootb.md",
+                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/Bootb.md"
+                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md"
               }
             }
           }
@@ -184,11 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9de15e35f084068d",
+  "active": "cfd34d4b3d882f59",
   "lastOpenFiles": [
-    "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
-    "01. 🗓️ Project/BootBox/Bootb.md",
+    "Note Rule.md",
+    "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
+    "Excalidraw",
     "무제 파일.canvas",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
+    "Untitled.md",
+    "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
     "06. 📝 templates/todo.md",
     "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
@@ -199,7 +214,6 @@
     "01. 🗓️ Project/RunningHi",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "02. 🏙️ Area/daily-note/2024-07-27.md",
-    "Note Rule.md",
     "custom-background.css",
     "color-extend.css",
     "04. 🐝 Archives",
@@ -209,7 +223,6 @@
     "05. 🖼️ images/Pasted image 20240728235153.png",
     "05. 🖼️ images",
     "03. ⭐️ Resource/Information",
-    "03. ⭐️ Resource/About-Obsidian",
     "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
