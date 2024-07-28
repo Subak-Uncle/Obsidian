@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.canvas"
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+    },
+    {
+      "basename": "러닝하이 - Tasks",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
+    },
+    {
+      "basename": "2024-07-28",
+      "path": "02. 🏙️ Area/daily-note/2024-07-28.md"
     },
     {
       "basename": "2024-07-29",
@@ -13,32 +21,32 @@
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
-      "basename": "러닝하이 - Tasks",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
-    },
-    {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
-      "basename": "AnuPpuccin",
-      "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
-    },
-    {
-      "basename": "2024-07-28",
-      "path": "02. 🏙️ Area/daily-note/2024-07-28.md"
-    },
-    {
-      "basename": "todo",
-      "path": "06. 📝 templates/todo.md"
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
     },
     {
       "basename": "Note Rule",
       "path": "Note Rule.md"
     },
     {
+      "basename": "todo",
+      "path": "06. 📝 templates/todo.md"
+    },
+    {
+      "basename": "AnuPpuccin",
+      "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
+    },
+    {
       "basename": "유용한 사이트 모음",
       "path": "03. ⭐️ Resource/Information/유용한 사이트 모음.md"
+    },
+    {
+      "basename": "나중에 공부할 내용",
+      "path": "03. ⭐️ Resource/Information/나중에 공부할 내용.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
     },
     {
       "basename": "마크다운 글자색",
@@ -51,10 +59,6 @@
     {
       "basename": "Pasted image 20240728235153",
       "path": "05. 🖼️ images/Pasted image 20240728235153.png"
-    },
-    {
-      "basename": "나중에 공부할 내용",
-      "path": "03. ⭐️ Resource/Information/나중에 공부할 내용.md"
     }
   ],
   "omittedPaths": []

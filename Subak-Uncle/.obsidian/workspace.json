@@ -11,14 +11,11 @@
             "id": "9de15e35f084068d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 332.3205800761074,
-                  "y": -1288.15566751193,
-                  "zoom": -0.9600000000000002
-                }
+                "file": "02. 🏙️ Area/Tasks/Today Tasks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
+                "file": "02. 🏙️ Area/Tasks/Today Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
+                "file": "02. 🏙️ Area/Tasks/Today Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md"
+                "file": "02. 🏙️ Area/Tasks/Today Tasks.md"
               }
             }
           }
@@ -189,24 +186,26 @@
   },
   "active": "9de15e35f084068d",
   "lastOpenFiles": [
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "무제 파일.canvas",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
-    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
-    "02. 🏙️ Area/daily-note/2024-07-29.md",
+    "02. 🏙️ Area/Tasks/Today Tasks.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
+    "02. 🏙️ Area/daily-note/2024-07-29.md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "Tasks-Canvas.canvas",
+    "Note Rule.md",
     "06. 📝 templates/todo.md",
+    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
+    "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
+    "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "02. 🏙️ Area/daily-note/2024-07-27.md",
     "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
-    "Note Rule.md",
     "Excalidraw",
     "Untitled.md",
     "todoist-backup-202472905615.json",
     "01. 🗓️ Project/BootBox",
     "01. 🗓️ Project/Adregamdi",
     "01. 🗓️ Project/RunningHi",
-    "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "custom-background.css",
     "color-extend.css",
     "04. 🐝 Archives",
@@ -216,7 +215,6 @@
     "05. 🖼️ images/Pasted image 20240728235153.png",
     "05. 🖼️ images",
     "03. ⭐️ Resource/Information",
-    "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
     "Tasks.md",
