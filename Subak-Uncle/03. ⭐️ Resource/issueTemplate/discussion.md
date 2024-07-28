@@ -1,0 +1,40 @@
+```
+title: "[날짜 작성]"
+body:
+  - type: dropdown
+    attributes:
+      label: 기록
+      multiple: false
+      options:
+        - 수의
+        - 종완
+        - 정인
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "📋 회의 내용"
+      value: |
+        *
+        *
+        *
+  - type: textarea
+    attributes:
+      label: "🐳 오늘까지 한 내용 공유"
+      value: |
+        *
+        *
+        *
+  - type: textarea
+    attributes:
+      label: "🦋 알게된 사실 or 참고 자료"
+      value: |
+        *
+        *
+        *
+    validations:
+      required: true
+
+```
+

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Tasks-Canvas.canvas",
                 "viewState": {
-                  "x": -240.49208348705227,
-                  "y": -1737.4901907931485,
-                  "zoom": 0.3677187647489303
+                  "x": 233.68230595952886,
+                  "y": -1095.4468266258968,
+                  "zoom": -0.9656145685844029
                 }
               }
             }
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-custom-frames:Open Todoist": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -184,11 +183,20 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "40d219f7a55f6feb",
+  "active": "cf4b47c855f84665",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/docs",
+    "03. ⭐️ Resource/issueTemplate/discussion.md",
+    "03. ⭐️ Resource/issueTemplate/PR템플릿.md",
+    "03. ⭐️ Resource/issueTemplate/issuetemplate.md",
+    "03. ⭐️ Resource/issueTemplate/gradle설정.md",
+    "03. ⭐️ Resource/issueTemplate/github-label.md",
+    "03. ⭐️ Resource/issueTemplate",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
     "Tasks-Canvas.canvas",
@@ -217,7 +225,6 @@
     "Pasted image 20240728235528.png",
     "05. 🖼️ images/Pasted image 20240728235153.png",
     "05. 🖼️ images",
-    "03. ⭐️ Resource/Information",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
     "Tasks.md",
