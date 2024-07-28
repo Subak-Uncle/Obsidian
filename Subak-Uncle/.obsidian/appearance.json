@@ -2,5 +2,9 @@
   "theme": "moonstone",
   "translucency": false,
   "cssTheme": "AnuPpuccin",
-  "accentColor": "#3aa9ee"
+  "accentColor": "#3aa9ee",
+  "enabledCssSnippets": [
+    "color-extend",
+    "custom-background"
+  ]
 }
