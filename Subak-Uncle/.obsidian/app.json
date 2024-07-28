@@ -1,3 +1,6 @@
 {
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "images"
 }

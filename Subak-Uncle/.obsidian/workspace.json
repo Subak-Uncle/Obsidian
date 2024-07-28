@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유용한 사이트 모음.md",
+                "file": "03. Resource/Information/유용한 사이트 모음.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/July, 2024 Tasks.md",
+                "file": "02. Area/Tasks/July, 2024 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AnuPpuccin.md",
+                "file": "Note Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AnuPpuccin.md",
+                "file": "Note Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AnuPpuccin.md",
+                "file": "Note Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AnuPpuccin.md"
+                "file": "Note Rule.md"
               }
             }
           }
@@ -215,26 +215,36 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f72ec93abffc0c03",
+  "active": "cf4b47c855f84665",
   "lastOpenFiles": [
-    "Tasks/July, 2024 Tasks.md",
-    "AnuPpuccin.md",
-    "daily-note/2024-07-29.md",
-    "daily-note/2024-07-27.md",
-    "daily-note/2024-07-28.md",
+    "04. Archives",
+    "03. Resource/Information/마크다운 글자색.md",
+    "05. images/Pasted image 20240728235555.png",
+    "Pasted image 20240728235528.png",
+    "05. images/Pasted image 20240728235153.png",
+    "Note Rule.md",
+    "05. images",
+    "03. Resource/Information",
+    "03. Resource/About-Obsidian",
+    "03. Resource",
+    "02. Area",
+    "01. Project",
+    "03. Resource/Information/유용한 사이트 모음.md",
+    "03. Resource/About-Obsidian/AnuPpuccin.md",
+    "02. Area/Tasks/July, 2024 Tasks.md",
+    "02. Area/daily-note/2024-07-29.md",
+    "02. Area/daily-note/2024-07-27.md",
+    "02. Area/daily-note/2024-07-28.md",
     "templates/todo.md",
-    "나중에 공부할 내용.md",
-    "Tasks",
-    "유용한 사이트 모음.md",
+    "03. Resource/Information/나중에 공부할 내용.md",
+    "02. Area/Tasks",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
-    "마크다운 글자색.md",
     "templates",
-    "daily-note",
+    "02. Area/daily-note",
     "2024-07-28.md",
     "Tasks.md",
     "@.md",
     "Excalidraw/Drawing 2024-07-28 00.41.51.excalidraw.md",
-    "Excalidraw",
-    "smart-chats"
+    "Excalidraw"
   ]
 }

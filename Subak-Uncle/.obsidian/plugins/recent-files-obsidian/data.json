@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Rule",
+      "path": "Note Rule.md"
+    },
+    {
+      "basename": "마크다운 글자색",
+      "path": "03. Resource/Information/마크다운 글자색.md"
+    },
+    {
+      "basename": "Pasted image 20240728235555",
+      "path": "05. images/Pasted image 20240728235555.png"
+    },
+    {
+      "basename": "Pasted image 20240728235153",
+      "path": "05. images/Pasted image 20240728235153.png"
+    },
+    {
+      "basename": "유용한 사이트 모음",
+      "path": "03. Resource/Information/유용한 사이트 모음.md"
+    },
+    {
       "basename": "AnuPpuccin",
-      "path": "AnuPpuccin.md"
+      "path": "03. Resource/About-Obsidian/AnuPpuccin.md"
     },
     {
       "basename": "July, 2024 Tasks",
-      "path": "Tasks/July, 2024 Tasks.md"
+      "path": "02. Area/Tasks/July, 2024 Tasks.md"
     },
     {
       "basename": "2024-07-29",
-      "path": "daily-note/2024-07-29.md"
+      "path": "02. Area/daily-note/2024-07-29.md"
     },
     {
       "basename": "2024-07-27",
-      "path": "daily-note/2024-07-27.md"
+      "path": "02. Area/daily-note/2024-07-27.md"
     },
     {
       "basename": "2024-07-28",
-      "path": "daily-note/2024-07-28.md"
+      "path": "02. Area/daily-note/2024-07-28.md"
     },
     {
       "basename": "todo",
@@ -26,15 +46,7 @@
     },
     {
       "basename": "나중에 공부할 내용",
-      "path": "나중에 공부할 내용.md"
-    },
-    {
-      "basename": "유용한 사이트 모음",
-      "path": "유용한 사이트 모음.md"
-    },
-    {
-      "basename": "마크다운 글자색",
-      "path": "마크다운 글자색.md"
+      "path": "03. Resource/Information/나중에 공부할 내용.md"
     }
   ],
   "omittedPaths": []
