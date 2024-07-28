@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f72ec93abffc0c03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9de15e35f084068d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. 📝 templates/todo.md",
+                "file": "01. 🗓️ Project/BootBox/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
+                "file": "01. 🗓️ Project/BootBox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
+                "file": "01. 🗓️ Project/BootBox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-29.md"
+                "file": "01. 🗓️ Project/BootBox/무제 파일.md"
               }
             }
           }
@@ -196,19 +184,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f72ec93abffc0c03",
+  "active": "9de15e35f084068d",
   "lastOpenFiles": [
-    "02. 🏙️ Area/daily-note/2024-07-28.md",
     "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+    "01. 🗓️ Project/BootBox/무제 파일.md",
+    "무제 파일.canvas",
+    "06. 📝 templates/todo.md",
+    "02. 🏙️ Area/daily-note/2024-07-29.md",
+    "02. 🏙️ Area/daily-note/2024-07-28.md",
     "todoist-backup-202472905615.json",
     "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "01. 🗓️ Project/BootBox",
     "01. 🗓️ Project/Adregamdi",
     "01. 🗓️ Project/RunningHi",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
-    "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/daily-note/2024-07-27.md",
-    "06. 📝 templates/todo.md",
     "Note Rule.md",
     "custom-background.css",
     "color-extend.css",
