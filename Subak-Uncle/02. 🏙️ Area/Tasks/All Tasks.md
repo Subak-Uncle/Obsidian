@@ -1,15 +1,7 @@
 
 #task
-## ToDoList
-- [ ] 🔼 #러닝하이 NextJs 프로젝트 빌드하기📅 2024-07-29 
-- [ ] ⏫ #러닝하이  FCM 토큰 API 설계 마무리하기 📅 2024-07-29 
-- [ ]  ⏫ #부트박스 회원가입 페이지 완성📅 2024-07-29 
-- [ ] 
-
-
+## ToDoList 
 ```tasks
+tag include todo
 not done
 ```
-
-
-- [1] ㅇㅁㄹㄴㅇ

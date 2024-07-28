@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"f050073ad70f0dda","x":140,"y":-1020,"width":400,"height":400,"color":"2","type":"file","file":"01. 🗓️ Project/BootBox/BootBox  - Tasks.md"}
+		{"id":"760553d47ef6f38d","type":"file","file":"02. 🏙️ Area/Tasks/All Tasks.md","x":200,"y":-1480,"width":460,"height":560,"color":"4"},
+		{"id":"f050073ad70f0dda","type":"file","file":"01. 🗓️ Project/BootBox/BootBox  - Tasks.md","x":900,"y":-1640,"width":400,"height":400,"color":"2"},
+		{"id":"c7763fc8123a341e","x":920,"y":-1080,"width":400,"height":400,"color":"#378cfb","type":"file","file":"01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"},
+		{"id":"c34538dbce6c7045","x":-440,"y":-1480,"width":400,"height":400,"type":"file","file":"02. 🏙️ Area/daily-note/2024-07-29.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"15cab40429d1707b","fromNode":"f050073ad70f0dda","fromSide":"left","toNode":"760553d47ef6f38d","toSide":"right"},
+		{"id":"12b52dc153085323","fromNode":"c7763fc8123a341e","fromSide":"left","toNode":"760553d47ef6f38d","toSide":"right"}
+	]
 }
