@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. ⭐️ Resource/AI/무제 파일.md",
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. ⭐️ Resource/AI/무제 파일.md",
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. ⭐️ Resource/AI/무제 파일.md",
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. ⭐️ Resource/AI/무제 파일.md"
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md"
               }
             }
           }
@@ -187,12 +187,16 @@
   },
   "active": "40d219f7a55f6feb",
   "lastOpenFiles": [
+    "02. 🏙️ Area/Tasks/Today Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-07-29.md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
+    "Tasks-Canvas.canvas",
+    "03. ⭐️ Resource/AI/2023-09-06 AI.md",
     "01. 🗓️ Project/RunningHi/docs/FCM 설정 트러블 슈팅.md",
-    "03. ⭐️ Resource/AI/무제 파일.md",
     "03. ⭐️ Resource/AI",
     "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
     "05. 🖼️ images/image-20240409142239777.png",
-    "Tasks-Canvas.canvas",
     "01. 🗓️ Project/RunningHi/docs",
     "03. ⭐️ Resource/issueTemplate/discussion.md",
     "03. ⭐️ Resource/issueTemplate/PR템플릿.md",
@@ -200,12 +204,8 @@
     "03. ⭐️ Resource/issueTemplate/gradle설정.md",
     "03. ⭐️ Resource/issueTemplate/github-label.md",
     "03. ⭐️ Resource/issueTemplate",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
-    "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-07-29.md",
     "Note Rule.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "06. 📝 templates/todo.md",
     "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
@@ -227,7 +227,6 @@
     "05. 🖼️ images/Pasted image 20240728235153.png",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
-    "Tasks.md",
-    "@.md"
+    "Tasks.md"
   ]
 }
