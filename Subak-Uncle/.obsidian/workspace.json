@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "daily-note/2024-07-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "daily-note/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024-07-28.md",
+                "file": "daily-note/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024-07-28.md"
+                "file": "daily-note/2024-07-29.md"
               }
             }
           }
@@ -203,11 +203,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b4a84dff35e4eb8a",
+  "active": "ff4fe351ead52d1f",
   "lastOpenFiles": [
-    "daily-note/2024-07-27.md",
-    "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "daily-note/2024-07-28.md",
+    "daily-note/2024-07-27.md",
+    "daily-note/2024-07-29.md",
+    "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "유용한 사이트 모음.md",
     "마크다운 글자색.md",
     "templates/todo.md",
