@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운 글자색.md",
+                "file": "daily-note/2024-07-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운 글자색.md",
+                "file": "daily-note/2024-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운 글자색.md",
+                "file": "daily-note/2024-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운 글자색.md"
+                "file": "daily-note/2024-07-28.md"
               }
             }
           }
@@ -209,19 +209,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "card-board:CardBoard": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "b4a84dff35e4eb8a",
   "lastOpenFiles": [
     "유용한 사이트 모음.md",
+    "마크다운 글자색.md",
     "daily-note/2024-07-28.md",
     "templates/todo.md",
     "daily-note/2024-07-27.md",
     "무제 파일.md",
     "templates",
-    "마크다운 글자색.md",
     "daily-note",
     "2024-07-28.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",

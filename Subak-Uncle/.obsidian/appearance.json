@@ -1,5 +1,6 @@
 {
-  "theme": "system",
+  "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#3aa9ee"
 }
