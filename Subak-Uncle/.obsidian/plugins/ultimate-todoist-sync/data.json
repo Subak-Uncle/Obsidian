@@ -2,7 +2,7 @@
   "initialized": true,
   "apiInitialized": true,
   "defaultProjectName": "Inbox",
-  "automaticSynchronizationInterval": 300,
+  "automaticSynchronizationInterval": 60,
   "todoistTasksData": {
     "projects": [
       {
@@ -34,10 +34,80 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [],
-    "events": []
+    "tasks": [
+      {
+        "id": "8244689917",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2336961467",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "테스트",
+        "description": "[02. 🏙️ Area/daily-note/2024-07-29.md](obsidian://open?vault=Subak-Uncle&file=02.%20%F0%9F%8F%99%EF%B8%8F%20Area/daily-note/2024-07-29.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50062917",
+        "createdAt": "2024-07-28T16:05:46.146189Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8244689917",
+        "duration": null,
+        "path": "02. 🏙️ Area/daily-note/2024-07-29.md"
+      }
+    ],
+    "events": [
+      {
+        "event_date": "2024-07-28T15:40:54.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "자택 🏡",
+          "note_count": 0
+        },
+        "extra_data_id": 24825108273,
+        "id": 24738795072,
+        "initiator_id": null,
+        "object_id": "2336961518",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6VqxM8JqMfJ9cwRG",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-28T15:39:40.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 24825101224,
+        "id": 24738788020,
+        "initiator_id": null,
+        "object_id": "2336961467",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6VqxJxmgPpx7QgP3",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      }
+    ]
   },
-  "fileMetadata": {},
+  "fileMetadata": {
+    "02. 🏙️ Area/daily-note/2024-07-29.md": {
+      "todoistTasks": [
+        "8244689917"
+      ],
+      "todoistCount": 1
+    }
+  },
   "enableFullVaultSync": false,
   "statistics": {},
   "debugMode": false,
