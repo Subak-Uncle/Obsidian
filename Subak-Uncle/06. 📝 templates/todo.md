@@ -1,4 +1,3 @@
-#task
 
 ## ToDoList
 <!-- {우선순위} {Tasks} {Due Date} {Strart Date} {End Date} -->

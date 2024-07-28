@@ -34,31 +34,7 @@
         "viewStyle": "list"
       }
     ],
-    "tasks": [
-      {
-        "id": "8244689917",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2336961467",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "테스트",
-        "description": "[02. 🏙️ Area/daily-note/2024-07-29.md](obsidian://open?vault=Subak-Uncle&file=02.%20%F0%9F%8F%99%EF%B8%8F%20Area/daily-note/2024-07-29.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50062917",
-        "createdAt": "2024-07-28T16:05:46.146189Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8244689917",
-        "duration": null,
-        "path": "02. 🏙️ Area/daily-note/2024-07-29.md"
-      }
-    ],
+    "tasks": [],
     "events": [
       {
         "event_date": "2024-07-28T15:40:54.000000Z",
@@ -102,10 +78,8 @@
   },
   "fileMetadata": {
     "02. 🏙️ Area/daily-note/2024-07-29.md": {
-      "todoistTasks": [
-        "8244689917"
-      ],
-      "todoistCount": 1
+      "todoistTasks": [],
+      "todoistCount": 0
     }
   },
   "enableFullVaultSync": false,
