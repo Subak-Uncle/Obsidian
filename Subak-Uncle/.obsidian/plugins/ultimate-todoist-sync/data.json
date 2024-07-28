@@ -1,0 +1,45 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2336961467",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336961467",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336961518",
+        "parentId": null,
+        "order": 1,
+        "color": "charcoal",
+        "name": "자택 🏡",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2336961518",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [],
+    "events": []
+  },
+  "fileMetadata": {},
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "af01b9293f1dc622c4f4f38a2c8e533d731e75bb"
+}

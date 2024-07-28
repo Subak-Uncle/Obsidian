@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7581f5550df336a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4a84dff35e4eb8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f72ec93abffc0c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-28.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md"
               }
             }
           }
@@ -220,15 +196,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7581f5550df336a8",
+  "active": "f72ec93abffc0c03",
   "lastOpenFiles": [
+    "02. 🏙️ Area/daily-note/2024-07-28.md",
     "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+    "todoist-backup-202472905615.json",
+    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "01. 🗓️ Project/BootBox",
     "01. 🗓️ Project/Adregamdi",
     "01. 🗓️ Project/RunningHi",
-    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
-    "02. 🏙️ Area/daily-note/2024-07-28.md",
     "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/daily-note/2024-07-27.md",
     "06. 📝 templates/todo.md",
@@ -243,7 +220,6 @@
     "05. 🖼️ images",
     "03. ⭐️ Resource/Information",
     "03. ⭐️ Resource/About-Obsidian",
-    "03. ⭐️ Resource",
     "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "2024-07-28.md",
