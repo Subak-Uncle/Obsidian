@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Today Tasks",
-      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "러닝하이 - Tasks",
       "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
     },
     {
-      "basename": "2024-07-28",
-      "path": "02. 🏙️ Area/daily-note/2024-07-28.md"
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
     },
     {
       "basename": "2024-07-29",
       "path": "02. 🏙️ Area/daily-note/2024-07-29.md"
     },
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
-    },
-    {
       "basename": "Note Rule",
       "path": "Note Rule.md"
+    },
+    {
+      "basename": "2024-07-28",
+      "path": "02. 🏙️ Area/daily-note/2024-07-28.md"
     },
     {
       "basename": "todo",
@@ -43,10 +47,6 @@
     {
       "basename": "나중에 공부할 내용",
       "path": "03. ⭐️ Resource/Information/나중에 공부할 내용.md"
-    },
-    {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
     },
     {
       "basename": "마크다운 글자색",

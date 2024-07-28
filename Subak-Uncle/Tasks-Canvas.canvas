@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"760553d47ef6f38d","type":"file","file":"02. 🏙️ Area/Tasks/All Tasks.md","x":200,"y":-1480,"width":460,"height":560,"color":"4"},
-		{"id":"f050073ad70f0dda","type":"file","file":"01. 🗓️ Project/BootBox/BootBox  - Tasks.md","x":900,"y":-1640,"width":400,"height":400,"color":"2"},
-		{"id":"c7763fc8123a341e","x":920,"y":-1080,"width":400,"height":400,"color":"#378cfb","type":"file","file":"01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"},
-		{"id":"c34538dbce6c7045","x":-440,"y":-1480,"width":400,"height":400,"type":"file","file":"02. 🏙️ Area/daily-note/2024-07-29.md"}
+		{"id":"760553d47ef6f38d","type":"file","file":"02. 🏙️ Area/Tasks/All Tasks.md","x":-640,"y":-2000,"width":900,"height":520,"color":"4"},
+		{"id":"90dc19c3ad24b42b","type":"file","file":"02. 🏙️ Area/Tasks/Today Tasks.md","x":-680,"y":-1280,"width":980,"height":520,"color":"6"},
+		{"id":"f050073ad70f0dda","type":"file","file":"01. 🗓️ Project/BootBox/BootBox  - Tasks.md","x":440,"y":-2000,"width":980,"height":400,"color":"2"},
+		{"id":"c7763fc8123a341e","type":"file","file":"01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md","x":440,"y":-1480,"width":980,"height":400,"color":"#378cfb"}
 	],
 	"edges":[
 		{"id":"15cab40429d1707b","fromNode":"f050073ad70f0dda","fromSide":"left","toNode":"760553d47ef6f38d","toSide":"right"},
 		{"id":"12b52dc153085323","fromNode":"c7763fc8123a341e","fromSide":"left","toNode":"760553d47ef6f38d","toSide":"right"},
-		{"id":"9dca05a830621d2c","fromNode":"c34538dbce6c7045","fromSide":"right","toNode":"760553d47ef6f38d","toSide":"left"}
+		{"id":"f6c3cdafde176ff5","fromNode":"90dc19c3ad24b42b","fromSide":"top","toNode":"760553d47ef6f38d","toSide":"bottom"}
 	]
 }

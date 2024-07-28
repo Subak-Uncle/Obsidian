@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6cf6205f475a6ae",
+        "id": "9e4b2c424d16fd74",
         "type": "tabs",
         "children": [
           {
-            "id": "9de15e35f084068d",
+            "id": "40d219f7a55f6feb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/Today Tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "Tasks-Canvas.canvas",
+                "viewState": {
+                  "x": -240.49208348705227,
+                  "y": -1737.4901907931485,
+                  "zoom": 0.3677187647489303
+                }
               }
             }
           }
@@ -56,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#러닝하이",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/Today Tasks.md",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/Today Tasks.md",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/Today Tasks.md"
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
               }
             }
           }
@@ -184,15 +187,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9de15e35f084068d",
+  "active": "40d219f7a55f6feb",
   "lastOpenFiles": [
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-07-28.md",
-    "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
+    "02. 🏙️ Area/Tasks/Today Tasks.md",
     "Tasks-Canvas.canvas",
+    "02. 🏙️ Area/daily-note/2024-07-29.md",
     "Note Rule.md",
+    "02. 🏙️ Area/daily-note/2024-07-28.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "06. 📝 templates/todo.md",
     "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
