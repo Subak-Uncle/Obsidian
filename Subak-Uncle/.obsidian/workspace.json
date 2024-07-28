@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Rule.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cfd34d4b3d882f59",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md"
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md"
               }
             }
           }
@@ -195,12 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfd34d4b3d882f59",
+  "active": "9de15e35f084068d",
   "lastOpenFiles": [
-    "Note Rule.md",
-    "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
-    "Excalidraw",
     "무제 파일.canvas",
+    "Excalidraw/Drawing 2024-07-29 01.21.50.excalidraw.md",
+    "Note Rule.md",
+    "Excalidraw",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "Untitled.md",
     "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
