@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024-07-29.md",
+                "file": "Tasks/July, 2024 Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72ec93abffc0c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AnuPpuccin.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024-07-29.md",
+                "file": "AnuPpuccin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024-07-29.md",
+                "file": "AnuPpuccin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024-07-29.md"
+                "file": "AnuPpuccin.md"
               }
             }
           }
@@ -203,19 +215,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b4a84dff35e4eb8a",
+  "active": "f72ec93abffc0c03",
   "lastOpenFiles": [
+    "Tasks/July, 2024 Tasks.md",
+    "AnuPpuccin.md",
+    "daily-note/2024-07-29.md",
     "daily-note/2024-07-27.md",
     "daily-note/2024-07-28.md",
-    "daily-note/2024-07-29.md",
-    "Tasks/July, 2024 Tasks.md",
     "templates/todo.md",
     "나중에 공부할 내용.md",
     "Tasks",
     "유용한 사이트 모음.md",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
     "마크다운 글자색.md",
-    "무제 파일.md",
     "templates",
     "daily-note",
     "2024-07-28.md",
