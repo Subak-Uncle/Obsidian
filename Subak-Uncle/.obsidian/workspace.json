@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-28.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-28.md",
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-07-28.md"
+                "file": "02. 🏙️ Area/Tasks/July, 2024 Tasks.md"
               }
             }
           }
@@ -221,10 +220,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f72ec93abffc0c03",
+  "active": "7581f5550df336a8",
   "lastOpenFiles": [
-    "02. 🏙️ Area/daily-note/2024-07-29.md",
+    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
+    "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
+    "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
+    "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/daily-note/2024-07-27.md",
     "06. 📝 templates/todo.md",
     "Note Rule.md",
@@ -241,9 +243,6 @@
     "03. ⭐️ Resource",
     "02. 🏙️ Area",
     "01. 🗓️ Project",
-    "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
-    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
-    "02. 🏙️ Area/Tasks/July, 2024 Tasks.md",
     "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
     "02. 🏙️ Area/Tasks",
     "Excalidraw/Drawing 2024-07-28 01.23.28.excalidraw.md",
