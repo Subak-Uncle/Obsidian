@@ -5,32 +5,24 @@
       "path": "Tasks-Canvas.canvas"
     },
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "러닝하이 - Tasks",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
-    },
-    {
-      "basename": "Today Tasks",
-      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
-    },
-    {
       "basename": "BootBox  - Tasks",
       "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
-      "basename": "2024-07-29",
-      "path": "02. 🏙️ Area/daily-note/2024-07-29.md"
     },
     {
       "basename": "Note Rule",
       "path": "Note Rule.md"
     },
     {
-      "basename": "2024-07-28",
-      "path": "02. 🏙️ Area/daily-note/2024-07-28.md"
+      "basename": "러닝하이 - Tasks",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
+    },
+    {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
     },
     {
       "basename": "todo",
