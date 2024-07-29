@@ -11,14 +11,11 @@
             "id": "eb41858116cb8fcf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tasks-Canvas.canvas",
-                "viewState": {
-                  "x": 105.2544287548142,
-                  "y": -927.7263157894736,
-                  "zoom": -1.5681976182417507
-                }
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks-Canvas.canvas",
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks-Canvas.canvas",
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks-Canvas.canvas"
+                "file": "02. 🏙️ Area/daily-note/2024-07-29.md"
               }
             }
           }
@@ -189,8 +186,8 @@
   },
   "active": "eb41858116cb8fcf",
   "lastOpenFiles": [
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "Tasks-Canvas.canvas",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "conflict-files-obsidian-git.md",
     "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
