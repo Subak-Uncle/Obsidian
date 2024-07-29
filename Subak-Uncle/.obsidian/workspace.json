@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,8 +169,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-custom-frames:Open Todoist": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -181,10 +180,12 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "eb41858116cb8fcf",
+  "active": "1983e9ce0edd4e8f",
   "lastOpenFiles": [
     "Tasks-Canvas.canvas",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
