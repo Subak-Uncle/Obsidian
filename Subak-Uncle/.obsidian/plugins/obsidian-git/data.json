@@ -1,7 +1,11 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD",
+<<<<<<< HEAD
   "autoSaveInterval": 30,
+=======
+  "autoSaveInterval": 20,
+>>>>>>> origin/main
   "autoPushInterval": 60,
   "autoPullInterval": 50,
   "autoPullOnBoot": true,
