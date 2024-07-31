@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4b2c424d16fd74",
+        "id": "ccedeac669e63363",
         "type": "tabs",
         "children": [
           {
-            "id": "917326b8d5ddb17f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tasks-Canvas.canvas",
-                "viewState": {
-                  "x": -276.34956969859286,
-                  "y": -1633.9664824682657,
-                  "zoom": -0.33333333333333326
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a2a2108d086f4bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40d219f7a55f6feb",
+            "id": "f1905c380be8d3a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
+                "file": "02. 🏙️ Area/daily-note/2024-07-31(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks-Canvas.canvas",
+                "file": "02. 🏙️ Area/daily-note/2024-07-31(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks-Canvas.canvas",
+                "file": "02. 🏙️ Area/daily-note/2024-07-31(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "fb4e1acf0e451ced",
@@ -186,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks-Canvas.canvas"
+                "file": "02. 🏙️ Area/daily-note/2024-07-31(수).md"
               }
             }
           }
@@ -214,21 +193,22 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "917326b8d5ddb17f",
+  "active": "f1905c380be8d3a6",
   "lastOpenFiles": [
+    "02. 🏙️ Area/daily-note/2024-07-30(화).md",
+    "02. 🏙️ Area/daily-note/2024-07-29(월).md",
+    "02. 🏙️ Area/daily-note/2024-07-31(수).md",
+    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
+    "Tasks-Canvas.canvas",
     "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
-    "daily-note/2024-07-31.md",
     "01. 🗓️ Project/BootBox/story-board",
-    "02. 🏙️ Area/daily-note/2024-07-30.md",
     "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
-    "Tasks-Canvas.canvas",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "03. ⭐️ Resource/Information/마크다운 글자색.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-07-29.md",
     "02. 🏙️ Area/daily-note/2024-07-28.md",
     "daily-note",
     "02. 🏙️ Area/daily-note/July, 2024/2024-07-29.md",
@@ -236,7 +216,6 @@
     "02. 🏙️ Area/daily-note/July, 2024",
     "06. 📝 templates/todo.md",
     "Note Rule.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "03. ⭐️ Resource/AI/2023-09-06 AI.md",
     "01. 🗓️ Project/RunningHi/docs/FCM 설정 트러블 슈팅.md",
     "03. ⭐️ Resource/AI",
@@ -250,7 +229,6 @@
     "03. ⭐️ Resource/issueTemplate/github-label.md",
     "03. ⭐️ Resource/issueTemplate",
     "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
-    "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
     "Excalidraw",
     "todoist-backup-202472905615.json",
     "01. 🗓️ Project/BootBox",
