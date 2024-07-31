@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024-07-31.md",
+                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024-07-31.md",
+                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +159,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024-07-31.md",
+                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7fcd39e3d164ff4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "fb4e1acf0e451ced",
@@ -178,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024-07-31.md"
+                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
               }
             }
           }
@@ -208,12 +216,15 @@
   },
   "active": "40d219f7a55f6feb",
   "lastOpenFiles": [
-    "Tasks-Canvas.canvas",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
+    "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
+    "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "daily-note/2024-07-31.md",
+    "01. 🗓️ Project/BootBox/story-board",
     "02. 🏙️ Area/daily-note/2024-07-30.md",
     "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
+    "Tasks-Canvas.canvas",
     "02. 🏙️ Area/Tasks/All Tasks.md",
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "03. ⭐️ Resource/Information/마크다운 글자색.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
@@ -240,12 +251,10 @@
     "03. ⭐️ Resource/issueTemplate",
     "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
-    "02. 🏙️ Area/daily-note/2024-07-27.md",
     "Excalidraw",
     "todoist-backup-202472905615.json",
     "01. 🗓️ Project/BootBox",
     "01. 🗓️ Project/Adregamdi",
-    "01. 🗓️ Project/RunningHi",
     "05. 🖼️ images/Pasted image 20240728235555.png",
     "Pasted image 20240728235528.png",
     "05. 🖼️ images/Pasted image 20240728235153.png"
