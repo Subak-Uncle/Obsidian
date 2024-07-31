@@ -15,9 +15,9 @@
               "state": {
                 "file": "Tasks-Canvas.canvas",
                 "viewState": {
-                  "x": -312.54169976171556,
-                  "y": -1380,
-                  "zoom": -0.8756145685844032
+                  "x": -276.34956969859286,
+                  "y": -1633.9664824682657,
+                  "zoom": -0.33333333333333326
                 }
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
+                "file": "Tasks-Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
+                "file": "Tasks-Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
+                "file": "Tasks-Canvas.canvas"
               }
             }
           }
@@ -214,10 +214,10 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "40d219f7a55f6feb",
+  "active": "917326b8d5ddb17f",
   "lastOpenFiles": [
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "daily-note/2024-07-31.md",
     "01. 🗓️ Project/BootBox/story-board",
