@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md",
+                "file": "daily-note/2024-08-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md",
+                "file": "daily-note/2024-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md",
+                "file": "daily-note/2024-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md"
+                "file": "daily-note/2024-08-02.md"
               }
             }
           }
@@ -196,11 +196,12 @@
   "active": "f1905c380be8d3a6",
   "lastOpenFiles": [
     "02. 🏙️ Area/Tasks/All Tasks.md",
-    "01. 🗓️ Project/BootBox/API 명세서.md",
+    "daily-note/2024-08-02.md",
     "02. 🏙️ Area/daily-note/2024-07-31(수).md",
+    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
+    "01. 🗓️ Project/BootBox/API 명세서.md",
     "02. 🏙️ Area/daily-note/2024-07-30(화).md",
     "02. 🏙️ Area/daily-note/2024-07-29(월).md",
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "Tasks-Canvas.canvas",
     "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
@@ -229,7 +230,6 @@
     "03. ⭐️ Resource/issueTemplate/gradle설정.md",
     "03. ⭐️ Resource/issueTemplate/github-label.md",
     "03. ⭐️ Resource/issueTemplate",
-    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
     "Excalidraw",
     "todoist-backup-202472905615.json",
     "01. 🗓️ Project/BootBox",
