@@ -9,7 +9,7 @@
 
 #### Request
 - **Method:** GET
-- **URL**: `> http://mtvs.helloworldlabs.kr:7771/api/string?parameter={요청 문자열}`
+- **URL**: `http://mtvs.helloworldlabs.kr:7771/api/string?parameter={요청 문자열}`
 - **Query Parameter:** 
 	- `parameter`: 요청할 문자열
 - **Headers**:
@@ -22,13 +22,13 @@
 		-  Date: 응답이 발생한 시간
     -  **Body**: 요청 받은 문자열
 
-
+<br />
 ### 1.2 GET /api/string/{string} 
 
 Path 변수로 받은 문자열을 반환합니다.
 #### Request
 - **Method:** GET
-- **URL:** `/api/string/{parameter}`
+- **URL:** `http://mtvs.helloworldlabs.kr:7771/api/string/{parameter}`
 - **Path Variable:** 
   - `parameter`: 요청할 문자열
 #### Response
@@ -40,20 +40,21 @@ Path 변수로 받은 문자열을 반환합니다.
 	- **Body**: 요청 받은 문자열
 
 
+<br />
 
 ## 2. JSON 관련 API
 ### 2.1 GET /api/json
 json 데이터를 요청 시 json을 반환합니다.
 #### Request
 - **Method:** GET
-- **URL:** `/api/json`
+- **URL:** `http://mtvs.helloworldlabs.kr:7771/api/json`
 #### Response
 - **Headers:** 
 	- Content-Type: `application/json`
 	- Transfer-Encoding: `chunked`
 	- Date: 응답이 발생한 시간
 - **Body**: 요청 받은 JSON 객체
-	```json
+```json
 {
     "timestamp": "2024-08-01T16:48:19.9095194",
     "title": "제목입니다.",
@@ -71,15 +72,19 @@ json 데이터를 요청 시 json을 반환합니다.
 요청 본문으로 받은 JSON을 반환합니다.
 #### Request
 - **Method:** POST
-- **URL:** `/api/json`
+- **URL:** `http://mtvs.helloworldlabs.kr:7771/api/json`
 - **Headers**:
 	- Content-Type: `application/json`
 - **Body:** JSON 객체
-  ```json
+```json
 {
 	"name": "자유롭게 키/값 을 설정해서 보내주세요."
 }
 ```
+
+
+
+
 #### Response
   - **Headers**:
 	  - Content-Type: `application/json`
@@ -101,7 +106,7 @@ json 데이터를 요청 시 json을 반환합니다.
 이번 예제에서는 `helloworld` 로 파일 명을 요청합니다.
 #### Request
 - **Method:** GET
-- **URL:** `/api/file`
+- **URL:** `http://mtvs.helloworldlabs.kr:7771/api/file`
 - **Query Parameter:** 
   - `filename`: 요청할 파일 명 (확장자 제외) `helloworld`
 #### Response
@@ -117,7 +122,7 @@ json 데이터를 요청 시 json을 반환합니다.
 전송 받은 파일을 반환합니다.
 #### Request
 - **Method:** POST
-- **URL:** `/api/file`
+- **URL:** `http://mtvs.helloworldlabs.kr:7771/api/file`
 - **Headers:** 
 	- Content-Type: `multipart/form-data`
 - **Body:**
@@ -131,3 +136,30 @@ json 데이터를 요청 시 json을 반환합니다.
 	- Transfer-Encoding: `chunked`
 	- Date: 응답이 발생한 시간
 - **Body:** 업로드 된 파일
+
+
+### 3.3 POST /api/byte
+byte 형태로 파일을 받아 byte로 반환합니다.
+
+#### Request
+- **Method**: POST
+- **URL**: `http://mtvs.helloworldlabs.kr:7771/api/byte`
+- **Headers**:
+	- Content-Type: `업로드해주신 바이너리 파일 형태를 작성해주세요.` 
+		- ex)  
+		     .{바이너리 파일} -> application/octet-stream
+		      .txt -> text/plain
+		     .pdf -> application/pdf
+		     .{각종 이미지 확장자} -> image/{각종 이미지 확장자}
+- **Body:**
+	- binary:
+		- `byte[]`: 업로드할 바이너리 파일
+
+#### Response
+- **Headers:**
+	- Content-Type: 업로드 된 파일의  MIME 타입
+		-  ex) json -> application/json, 이미지 -> image/이미지 확장자
+	- Date: 응답이 발생한 시간
+- **Body:**  업로드 된 파일
+	
+		     

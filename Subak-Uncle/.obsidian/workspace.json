@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
+                "file": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
+                "file": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
+                "file": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md"
+                "file": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md"
               }
             }
           }
@@ -195,8 +195,8 @@
   },
   "active": "f1905c380be8d3a6",
   "lastOpenFiles": [
-    "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
     "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
+    "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
     "01. 🗓️ Project/BootBox/xr-api",
     "daily-note/2024-08-02.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
