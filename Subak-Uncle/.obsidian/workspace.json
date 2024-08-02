@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md",
+                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md",
+                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md",
+                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/API 명세서.md"
+                "file": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md"
               }
             }
           }
@@ -195,11 +195,13 @@
   },
   "active": "f1905c380be8d3a6",
   "lastOpenFiles": [
+    "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
+    "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
+    "01. 🗓️ Project/BootBox/xr-api",
     "daily-note/2024-08-02.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/daily-note/2024-07-31(수).md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "01. 🗓️ Project/BootBox/API 명세서.md",
     "02. 🏙️ Area/daily-note/2024-07-30(화).md",
     "02. 🏙️ Area/daily-note/2024-07-29(월).md",
     "Tasks-Canvas.canvas",
@@ -228,12 +230,10 @@
     "03. ⭐️ Resource/issueTemplate/PR템플릿.md",
     "03. ⭐️ Resource/issueTemplate/issuetemplate.md",
     "03. ⭐️ Resource/issueTemplate/gradle설정.md",
-    "03. ⭐️ Resource/issueTemplate/github-label.md",
     "03. ⭐️ Resource/issueTemplate",
     "Excalidraw",
     "todoist-backup-202472905615.json",
     "01. 🗓️ Project/BootBox",
-    "01. 🗓️ Project/Adregamdi",
     "05. 🖼️ images/Pasted image 20240728235555.png",
     "Pasted image 20240728235528.png",
     "05. 🖼️ images/Pasted image 20240728235153.png"
