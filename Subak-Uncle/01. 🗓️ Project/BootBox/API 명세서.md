@@ -1,4 +1,6 @@
 
+> **Base-Server-URL**
+> http://mtvs.helloworldlabs.kr:7771
 ## 1. String 관련 API
 
 ### 1.1 GET /api/string
