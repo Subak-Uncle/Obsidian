@@ -9,7 +9,7 @@
 
 #### Request
 - **Method:** GET
-- **URL**: `https://~~~/api/string?parameter={요청 문자열}`
+- **URL**: `> http://mtvs.helloworldlabs.kr:7771/api/string?parameter={요청 문자열}`
 - **Query Parameter:** 
 	- `parameter`: 요청할 문자열
 - **Headers**:
