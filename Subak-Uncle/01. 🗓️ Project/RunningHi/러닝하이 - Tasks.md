@@ -2,6 +2,7 @@
 ```tasks
 tag include 러닝하이
 not done
+sort by priority
 ```
 
 

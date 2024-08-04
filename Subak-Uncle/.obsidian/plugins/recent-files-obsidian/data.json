@@ -1,96 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "API 명세서",
-      "path": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md"
+      "basename": "2024-08-05(월)",
+      "path": "02. 🏙️ Area/daily-note/2024-08-05(월).md"
     },
     {
-      "basename": "HTTPS 설정",
-      "path": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md"
+      "basename": "2024-08-04(일)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-04(일).md"
     },
     {
-      "basename": "2024-08-02",
-      "path": "daily-note/2024-08-02.md"
+      "basename": "2024-08-02(금)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-02(금).md"
     },
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "2024-07-31(수)",
-      "path": "02. 🏙️ Area/daily-note/2024-07-31(수).md"
-    },
-    {
-      "basename": "러닝하이 - Tasks",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
-    },
-    {
-      "basename": "2024-07-30(화)",
-      "path": "02. 🏙️ Area/daily-note/2024-07-30(화).md"
-    },
-    {
-      "basename": "2024-07-29(월)",
-      "path": "02. 🏙️ Area/daily-note/2024-07-29(월).md"
+      "basename": "2024-07-28",
+      "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-28.md"
     },
     {
       "basename": "Tasks-Canvas",
       "path": "Tasks-Canvas.canvas"
     },
     {
-      "basename": "정보 구조도",
-      "path": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
+      "basename": "Pasted image 20240804143555",
+      "path": "05. 🖼️ images/Pasted image 20240804143555.png"
     },
     {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
-      "basename": "버전 정보",
-      "path": "01. 🗓️ Project/BootBox/story-board/버전 정보.md"
+      "basename": "닮은 연예인 찾기 웹 애플리케이션",
+      "path": "01. 🗓️ Project/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
     },
     {
-      "basename": "대한민국 행정구영",
-      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
+      "basename": "Pasted image 20240804143539",
+      "path": "05. 🖼️ images/Pasted image 20240804143539.png"
     },
     {
-      "basename": "유용한 사이트 모음",
-      "path": "03. ⭐️ Resource/Information/유용한 사이트 모음.md"
+      "basename": "Pasted image 20240804143518",
+      "path": "05. 🖼️ images/Pasted image 20240804143518.png"
     },
     {
-      "basename": "마크다운 글자색",
-      "path": "03. ⭐️ Resource/Information/마크다운 글자색.md"
+      "basename": "Pasted image 20240804143458",
+      "path": "05. 🖼️ images/Pasted image 20240804143458.png"
     },
     {
-      "basename": "Today Tasks",
-      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
-    },
-    {
-      "basename": "2024-07-28",
-      "path": "02. 🏙️ Area/daily-note/2024-07-28.md"
-    },
-    {
-      "basename": "todo",
-      "path": "06. 📝 templates/todo.md"
+      "basename": "Pasted image 20240804143431",
+      "path": "05. 🖼️ images/Pasted image 20240804143431.png"
     },
     {
       "basename": "Note Rule",
       "path": "Note Rule.md"
     },
     {
-      "basename": "AnuPpuccin",
-      "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
+      "basename": "우분투 하드디스크 사용량 조회",
+      "path": "03. ⭐️ Resource/git/우분투 하드디스크 사용량 조회.md"
     },
     {
-      "basename": "나중에 공부할 내용",
-      "path": "03. ⭐️ Resource/Information/나중에 공부할 내용.md"
+      "basename": "2024-08-03(토)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-03(토).md"
+    },
+    {
+      "basename": "2024-07-31(수)",
+      "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-31(수).md"
+    },
+    {
+      "basename": "2024-07-30(화)",
+      "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-30(화).md"
+    },
+    {
+      "basename": "2024-07-29(월)",
+      "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-29(월).md"
+    },
+    {
+      "basename": "러닝하이 - Tasks",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
+    },
+    {
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+    },
+    {
+      "basename": "커밋 혹은 변경사항 롤백",
+      "path": "03. ⭐️ Resource/git/커밋 혹은 변경사항 롤백.md"
+    },
+    {
+      "basename": "todo",
+      "path": "06. 📝 templates/todo.md"
+    },
+    {
+      "basename": "메타 데이터",
+      "path": "06. 📝 templates/메타 데이터.md"
+    },
+    {
+      "basename": "Branch 관련",
+      "path": "03. ⭐️ Resource/git/Branch 관련.md"
+    },
+    {
+      "basename": "Submodule",
+      "path": "03. ⭐️ Resource/git/Submodule.md"
+    },
+    {
+      "basename": "Pasted image 20240728235153",
+      "path": "05. 🖼️ images/Pasted image 20240728235153.png"
     },
     {
       "basename": "Pasted image 20240728235555",
       "path": "05. 🖼️ images/Pasted image 20240728235555.png"
     },
     {
-      "basename": "Pasted image 20240728235153",
-      "path": "05. 🖼️ images/Pasted image 20240728235153.png"
+      "basename": "유용한 사이트 모음",
+      "path": "03. ⭐️ Resource/Information/유용한 사이트 모음.md"
+    },
+    {
+      "basename": "나중에 공부할 내용",
+      "path": "03. ⭐️ Resource/Information/나중에 공부할 내용.md"
+    },
+    {
+      "basename": "마크다운 글자색",
+      "path": "03. ⭐️ Resource/Information/마크다운 글자색.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+    },
+    {
+      "basename": "AnuPpuccin",
+      "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
     }
   ],
   "omittedPaths": []

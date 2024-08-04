@@ -3,6 +3,7 @@
 ```tasks
 tag include todo
 not done
+sort by priority
 ```
 
 ## Done
