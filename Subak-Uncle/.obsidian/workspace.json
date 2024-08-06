@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md",
+                "file": "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md",
+                "file": "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md",
+                "file": "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md"
+                "file": "03. ⭐️ Resource/Information/유용한 사이트 모음.md"
               }
             }
           }
@@ -195,6 +195,9 @@
   },
   "active": "f1905c380be8d3a6",
   "lastOpenFiles": [
+    "03. ⭐️ Resource/Information/마크다운 글자색.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-06(화).md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
@@ -209,11 +212,9 @@
     "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md",
     "02. 🏙️ Area/daily-note/2024-08-05.md",
     "03. ⭐️ Resource/git/커밋 혹은 변경사항 롤백.md",
     "03. ⭐️ Resource/git/Submodule.md",
-    "03. ⭐️ Resource/Information/마크다운 글자색.md",
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "05. 🖼️ images/Pasted image 20240804143555.png",
     "05. 🖼️ images/Pasted image 20240804143539.png",
@@ -227,7 +228,6 @@
     "02. 🏙️ Area/daily-note/2024-08/2024-08-04(일).md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-02(금).md",
     "02. 🏙️ Area/daily-note/2024-08",
-    "02. 🏙️ Area/daily-note/2024-07/2024-07-31(수).md",
     "02. 🏙️ Area/daily-note/2024-07",
     "03. ⭐️ Resource/Gemini API Hackathon",
     "01. 🗓️ Project/BootBox/xr-api",
