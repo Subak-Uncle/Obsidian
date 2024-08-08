@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "zustand",
+      "path": "03. ⭐️ Resource/Front/zustand.md"
+    },
+    {
+      "basename": "2024-08-08(목)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-08(목).md"
+    },
+    {
+      "basename": "버전 정보",
+      "path": "01. 🗓️ Project/BootBox/story-board/버전 정보.md"
+    },
+    {
+      "basename": "정보 구조도",
+      "path": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
+    },
+    {
+      "basename": "API 명세서",
+      "path": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+    },
+    {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
@@ -49,24 +73,8 @@
       "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
     },
     {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
       "basename": "HTTPS 설정",
       "path": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md"
-    },
-    {
-      "basename": "API 명세서",
-      "path": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md"
-    },
-    {
-      "basename": "정보 구조도",
-      "path": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
-    },
-    {
-      "basename": "버전 정보",
-      "path": "01. 🗓️ Project/BootBox/story-board/버전 정보.md"
     },
     {
       "basename": "대한민국 행정구영",
