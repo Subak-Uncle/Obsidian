@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. ⭐️ Resource/Front/zustand.md",
+                "file": "01. 🗓️ Project/Adregamdi/MinIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. ⭐️ Resource/Front/zustand.md",
+                "file": "01. 🗓️ Project/Adregamdi/MinIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. ⭐️ Resource/Front/zustand.md",
+                "file": "01. 🗓️ Project/Adregamdi/MinIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. ⭐️ Resource/Front/zustand.md"
+                "file": "01. 🗓️ Project/Adregamdi/MinIO.md"
               }
             }
           }
@@ -195,9 +195,11 @@
   },
   "active": "f1905c380be8d3a6",
   "lastOpenFiles": [
+    "03. ⭐️ Resource/Front/zustand.md",
+    "01. 🗓️ Project/Adregamdi/MinIO.md",
+    "01. 🗓️ Project/Adregamdi",
     "03. ⭐️ Resource/Front/zustand",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-08(목).md",
-    "03. ⭐️ Resource/Front/zustand.md",
     "03. ⭐️ Resource/Front",
     "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "01. 🗓️ Project/BootBox/무제 폴더",
@@ -235,8 +237,6 @@
     "01. 🗓️ Project/BootBox/xr-api",
     "Tasks-Canvas.canvas",
     "01. 🗓️ Project/BootBox/story-board",
-    "daily-note",
-    "02. 🏙️ Area/daily-note/July, 2024",
     "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
     "05. 🖼️ images/image-20240409142239777.png",
     "05. 🖼️ images/Pasted image 20240728235555.png",
