@@ -21,7 +21,7 @@
 - [0~9] Speech bubble 0~9
 ```
 
->> 이렇게 됩니다!
+> 이렇게 됩니다!
 - [ ] Unchecked 
 - [x] Checked 
 - [>] Rescheduled 

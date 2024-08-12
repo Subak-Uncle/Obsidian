@@ -7,10 +7,16 @@ sudo mv minio /usr/local/bin/
 ```
 
 
-### 2. MinIO 서버 시작
+### 2. MinIO 사용자 생성 & 서버 시작
 ```bash
-mkdir ~/minio-data
-minio server ~/minio-data --console-address ":9001"
+# 사용자 생성
+sudo useradd -r minio-user -s /sbin/nologin
+
+# 데이터 디렉토리 생성
+sudo mkdir /usr/local/share/minio
+sudo chown minio-user:minio-user /usr/local/share/minio
+
+minio server ~/minio-data --console-address ":9001" 
 ```
 이 명령은 MinIO 서버를 시작하고 관리 콘솔을 9001 포트에서 실행합니다.
 
@@ -22,7 +28,7 @@ sudo vim /etc/systemd/system/minio.service
 
 #### 다음 내용을 파일에 추가:
 ```file
-Copy[Unit]
+[Unit]
 Description=MinIO
 Documentation=https://docs.min.io
 Wants=network-online.target
@@ -54,15 +60,16 @@ sudo vim /etc/default/minio
 
 #### 다음 내용을 추가:
 ```txt
-MINIO_OPTS="--address :9000 /path/to/data"
+MINIO_OPTS="--address :9000 --console-address :9001 /usr/local/share/minio"
 MINIO_ACCESS_KEY="minio_access_8e729bdb9"
 MINIO_SECRET_KEY="minio_secret_key_a728nd7BnmzpQ9IoPL"
 ```
 
 ### 5. MinIO 서비스 시작
 ```bash
-sudo systemctl start minio
+sudo systemctl daemon-reload
 sudo systemctl enable minio
+sudo systemctl start minio
 ```
 
 ### 6. MinIO 로깅 설정(선택)
@@ -212,6 +219,142 @@ public class FileStorageService {
 ```
 
 
+### 12. 포트 보안 설정
+#### 방화벽 포트 설정
+기본적으로 ufw 방화벽이 활성화되어 있겠지만, 다운로드부터 설명드리겠습니다.
+```bash
+sudo apt-get install ufw
+sudo ufw enable
 
+sudo ufw allow 9000
+sudo ufw allow 9001
+
+# 방화벽 서비스 시작
+sudo systemctl ufw start
+# 방화벽 서비스 상태 확인
+sudo ufw status verbose
+```
+
+#### Nginx 설정
+
+
+##### 설정파일 수정
+- 설정파일 경로 :  `/etc/nginx/sites-available/default`
+```bash
+server {
+    listen 443 ssl;
+    server_name your_domain.com;
+
+    ssl_certificate /path/to/your/fullchain.pem;
+    ssl_certificate_key /path/to/your/privkey.pem;
+
+    # 기존 Java 애플리케이션 설정
+    location / {
+        proxy_pass http://localhost:8080;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+
+    # MinIO API
+    location /minio {
+        proxy_set_header Host $http_host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+        proxy_connect_timeout 300;
+        proxy_http_version 1.1;
+        proxy_set_header Connection "";
+        chunked_transfer_encoding off;
+
+        proxy_pass http://localhost:9000;
+    }
+
+    # MinIO Console
+    location /minio-console {
+        proxy_set_header Host $http_host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+        proxy_connect_timeout 300;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+
+        rewrite ^/minio-console/(.*) /$1 break;
+        proxy_pass http://localhost:9001;
+    }
+}
+```
+
+##### Nginx 설정 테스트 및 재시작
+```bash
+sudo nginx -t
+sudo systemctl restart nginx
+
+# 방화벽 포트 추가
+sudo ufw allow 9000
+sudo ufw allow 9001
+```
 ## References
 -  https://oingdaddy.tistory.com/144
+
+
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── (q)uit/esc
+Name:                                                                                                                                                                                                                                                                         
+  mc anonymous - manage anonymous access to buckets and objects                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                              
+USAGE:                                                                                                                                                                                                                                                                        
+  mc anonymous [FLAGS] set PERMISSION TARGET                                                                                                                                                                                                                                  
+  mc anonymous [FLAGS] set-json FILE TARGET                                                                                                                                                                                                                                   
+  mc anonymous [FLAGS] get TARGET                                                                                                                                                                                                                                             
+  mc anonymous [FLAGS] get-json TARGET                                                                                                                                                                                                                                        
+  mc anonymous [FLAGS] list TARGET                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                              
+FLAGS:                                                                                                                                                                                                                                                                        
+  --recursive, -r               list recursively                                                                                                                                                                                                                              
+  --config-dir value, -C value  path to configuration folder (default: "/root/.mc") [$MC_CONFIG_DIR]                                                                                                                                                                          
+  --quiet, -q                   disable progress bar display [$MC_QUIET]                                                                                                                                                                                                      
+  --disable-pager, --dp         disable mc internal pager and print to raw stdout [$MC_DISABLE_PAGER]                                                                                                                                                                         
+  --no-color                    disable color theme [$MC_NO_COLOR]                                                                                                                                                                                                            
+  --json                        enable JSON lines formatted output [$MC_JSON]                                                                                                                                                                                                 
+  --debug                       enable debug output [$MC_DEBUG]                                                                                                                                                                                                               
+  --insecure                    disable SSL certificate verification [$MC_INSECURE]                                                                                                                                                                                           
+  --limit-upload value          limits uploads to a maximum rate in KiB/s, MiB/s, GiB/s. (default: unlimited) [$MC_LIMIT_UPLOAD]                                                                                                                                              
+  --limit-download value        limits downloads to a maximum rate in KiB/s, MiB/s, GiB/s. (default: unlimited) [$MC_LIMIT_DOWNLOAD]                                                                                                                                          
+  --help, -h                    show help                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                              
+PERMISSION:                                                                                                                                                                                                                                                                   
+  Allowed policies are: [private, public, download, upload].                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                              
+FILE:                                                                                                                                                                                                                                                                         
+  A valid S3 anonymous JSON filepath.                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                              
+EXAMPLES:                                                                                                                                                                                                                                                                     
+  1. Set bucket to "download" on Amazon S3 cloud storage.                                                                                                                                                                                                                     
+     $ mc anonymous set download s3/mybucket                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                              
+  2. Set bucket to "public" on Amazon S3 cloud storage.                                                                                                                                                                                                                       
+     $ mc anonymous set public s3/shared                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                              
+  3. Set bucket to "upload" on Amazon S3 cloud storage.                                                                                                                                                                                                                       
+     $ mc anonymous set upload s3/incoming                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                              
+  4. Set anonymous to "public" for bucket with prefix on Amazon S3 cloud storage.                                                                                                                                                                                             
+     $ mc anonymous set public s3/public-commons/images                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                              
+  5. Set a custom prefix based bucket anonymous on Amazon S3 cloud storage using a JSON file.                                                                                                                                                                                 
+     $ mc anonymous set-json /path/to/anonymous.json s3/public-commons/images                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                              
+  6. Get bucket permissions.                                                                                                                                                                                                                                                  
+     $ mc anonymous get s3/shared                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                              
+  7. Get bucket permissions in JSON format.                                                                                                                                                                                                                                   
+     $ mc anonymous get-json s3/shared                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                              
+  8. List policies set to a specified bucket.                                                                                                                                                                                                                                 
+     $ mc anonymous list s3/shared                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                              
+  9. List public object URLs recursively.                                                                                                                                                                                                                                     
+     $ mc anonymous --recursive links s3/shared/   

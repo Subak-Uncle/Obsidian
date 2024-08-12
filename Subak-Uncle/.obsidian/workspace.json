@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7f86afeefa7d8173",
+    "id": "8d48c8d4c117b874",
     "type": "split",
     "children": [
       {
-        "id": "ccedeac669e63363",
+        "id": "e86efa1a5ef35235",
         "type": "tabs",
         "children": [
           {
-            "id": "f1905c380be8d3a6",
+            "id": "0e9439511e8afab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-09.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,16 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b51c8eeeb04deeff",
+    "id": "32f82ed4cedd937d",
     "type": "split",
     "children": [
       {
-        "id": "289a37180fba0303",
+        "id": "7b04357af467f833",
         "type": "tabs",
-        "dimension": 73.81422924901186,
         "children": [
           {
-            "id": "cf4b47c855f84665",
+            "id": "a11139465d67c3f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,21 +41,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1f67b8fbadd367e9",
-        "type": "tabs",
-        "dimension": 26.18577075098814,
-        "children": [
+          },
           {
-            "id": "e5515159cf4470a6",
+            "id": "8395222c5fd608ac",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#러닝하이",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +58,7 @@
             }
           },
           {
-            "id": "740fd40897437515",
+            "id": "abcec22e2eb763e0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +66,7 @@
             }
           },
           {
-            "id": "1983e9ce0edd4e8f",
+            "id": "1f9a21c573d6a37c",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -82,33 +74,22 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 300
   },
   "right": {
-    "id": "cb7b84bc3f599f2e",
+    "id": "ece929fa264f644f",
     "type": "split",
     "children": [
       {
-        "id": "69ceeb29453282b8",
+        "id": "1f82dfffde4abe9b",
         "type": "tabs",
         "children": [
           {
-            "id": "58c5ed09906e2534",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "ff4fe351ead52d1f",
+            "id": "16bbc33d346384d9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -116,12 +97,12 @@
             }
           },
           {
-            "id": "669f5e3847fff264",
+            "id": "6525683fa068a978",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-09.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,39 +114,35 @@
             }
           },
           {
-            "id": "cd1a03c58df835b0",
+            "id": "423f54d3b9b1439a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-09.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7fcd39e3d164ff4c",
+            "id": "96eab6ad337d1c15",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fb4e1acf0e451ced",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9cf760fd9419c9ac",
+            "id": "54ac0c782abe2f69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-09.md"
+                "file": "02. 🏙️ Area/daily-note/2024-08-11.md"
               }
             }
           }
@@ -173,16 +150,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
@@ -190,57 +162,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-custom-frames:Open Todoist": false
+      "obsidian-custom-frames:Open Todoist": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f1905c380be8d3a6",
-  "lastOpenFiles": [
-    "01. 🗓️ Project/Adregamdi/MinIO.md",
-    "02. 🏙️ Area/daily-note/2024-08-09.md",
-    "03. ⭐️ Resource/Front/zustand.md",
-    "01. 🗓️ Project/Adregamdi",
-    "03. ⭐️ Resource/Front/zustand",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-08(목).md",
-    "03. ⭐️ Resource/Front",
-    "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
-    "01. 🗓️ Project/BootBox/무제 폴더",
-    "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
-    "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
-    "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
-    "03. ⭐️ Resource/Information/마크다운 글자색.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-06(화).md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md",
-    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
-    "06. 📝 templates/메타 데이터.md",
-    "Note Rule.md",
-    "06. 📝 templates/todo.md",
-    "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md",
-    "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
-    "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
-    "02. 🏙️ Area/daily-note/2024-08-05.md",
-    "03. ⭐️ Resource/git/커밋 혹은 변경사항 롤백.md",
-    "03. ⭐️ Resource/git/Submodule.md",
-    "05. 🖼️ images/Pasted image 20240804143555.png",
-    "05. 🖼️ images/Pasted image 20240804143539.png",
-    "05. 🖼️ images/Pasted image 20240804143518.png",
-    "05. 🖼️ images/Pasted image 20240804143458.png",
-    "05. 🖼️ images/Pasted image 20240804143431.png",
-    "03. ⭐️ Resource/git/우분투 하드디스크 사용량 조회.md",
-    "03. ⭐️ Resource/git",
-    "02. 🏙️ Area/daily-note/2024-08",
-    "02. 🏙️ Area/daily-note/2024-07",
-    "03. ⭐️ Resource/Gemini API Hackathon",
-    "01. 🗓️ Project/BootBox/xr-api",
-    "Tasks-Canvas.canvas",
-    "01. 🗓️ Project/BootBox/story-board",
-    "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
-    "05. 🖼️ images/image-20240409142239777.png",
-    "05. 🖼️ images/Pasted image 20240728235555.png",
-    "Pasted image 20240728235528.png",
-    "05. 🖼️ images/Pasted image 20240728235153.png"
-  ]
+  "active": "0e9439511e8afab1",
+  "lastOpenFiles": []
 }
