@@ -5,6 +5,18 @@
       "path": "02. 🏙️ Area/daily-note/2024-08-12.md"
     },
     {
+      "basename": "러닝하이 - Tasks",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
+    },
+    {
       "basename": "2024-08-09",
       "path": "02. 🏙️ Area/daily-note/2024-08-09.md"
     },
@@ -41,14 +53,6 @@
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
-      "basename": "러닝하이 - Tasks",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
-    },
-    {
       "basename": "유용한 사이트 모음",
       "path": "03. ⭐️ Resource/Information/유용한 사이트 모음.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "2024-08-05(월)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "메타 데이터",
