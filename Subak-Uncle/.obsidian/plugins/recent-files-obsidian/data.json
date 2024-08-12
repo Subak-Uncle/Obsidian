@@ -5,6 +5,34 @@
       "path": "02. 🏙️ Area/daily-note/2024-08-11.md"
     },
     {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "러닝하이 백엔드 컨벤션",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
+    },
+    {
+      "basename": "대한민국 행정구영",
+      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+    },
+    {
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
+      "basename": "Note Rule",
+      "path": "Note Rule.md"
+    },
+    {
       "basename": "Label-Template",
       "path": "03. ⭐️ Resource/GitHub/Label-Template.md"
     },
@@ -25,10 +53,6 @@
       "path": "03. ⭐️ Resource/GitHub/Pull-Request-Template.md"
     },
     {
-      "basename": "MinIO",
-      "path": "01. 🗓️ Project/Adregamdi/MinIO.md"
-    },
-    {
       "basename": "방화벽 설정 명령어",
       "path": "03. ⭐️ Resource/Linux/Ubuntu/방화벽 설정 명령어.md"
     },
@@ -43,10 +67,6 @@
     {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "러닝하이 백엔드 컨벤션",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
     },
     {
       "basename": "2024-08-10(토)",
@@ -67,10 +87,6 @@
     {
       "basename": "[]",
       "path": "[].md"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "Optional 사용 가이드",
@@ -105,10 +121,6 @@
       "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-28.md"
     },
     {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
-    },
-    {
       "basename": "Pasted image 20240804143555",
       "path": "05. 🖼️ images/Pasted image 20240804143555.png"
     },
@@ -127,10 +139,6 @@
     {
       "basename": "Pasted image 20240804143431",
       "path": "05. 🖼️ images/Pasted image 20240804143431.png"
-    },
-    {
-      "basename": "Note Rule",
-      "path": "Note Rule.md"
     },
     {
       "basename": "2024-07-31(수)",
@@ -179,10 +187,6 @@
     {
       "basename": "마크다운 글자색",
       "path": "03. ⭐️ Resource/Information/마크다운 글자색.md"
-    },
-    {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
     }
   ],
   "omittedPaths": []

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e86efa1a5ef35235",
+        "id": "cf8ed0d17915701d",
         "type": "tabs",
         "children": [
           {
-            "id": "0e9439511e8afab1",
+            "id": "24c0e501674c028f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-11.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,6 +162,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0e9439511e8afab1",
-  "lastOpenFiles": []
+  "active": "24c0e501674c028f",
+  "lastOpenFiles": [
+    "02. 🏙️ Area/daily-note/2024-08-11.md",
+    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
+    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
+    "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
+    "conflict-files-obsidian-git.md",
+    "Tasks-Canvas.canvas",
+    "Note Rule.md",
+    "02. 🏙️ Area/daily-note/2024-08-12.md"
+  ]
 }
