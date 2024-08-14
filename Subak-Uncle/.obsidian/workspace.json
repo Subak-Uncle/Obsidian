@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccedeac669e63363",
+        "id": "97c1be1d8e4df984",
         "type": "tabs",
         "children": [
           {
-            "id": "f1905c380be8d3a6",
+            "id": "1c3db1f9aac4a6af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-13.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-14(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 371.5
   },
   "right": {
     "id": "cb7b84bc3f599f2e",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-13.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-14(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-13.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-14(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08-13.md"
+                "file": "02. 🏙️ Area/daily-note/2024-08-14(수).md"
               }
             }
           }
@@ -193,10 +193,18 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "f1905c380be8d3a6",
+  "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "02. 🏙️ Area/daily-note/2024-08-12.md",
+    "02. 🏙️ Area/daily-note/2024-07/2024-08-10(토).md",
+    "02. 🏙️ Area/daily-note/2024-08-14(수).md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-03(토).md",
     "02. 🏙️ Area/daily-note/2024-08-13.md",
+    "02. 🏙️ Area/daily-note/2024-08-11.md",
+    "Note Rule.md",
+    "무제 파일.md",
+    "codes",
+    "02. 🏙️ Area/daily-note/2024-08-12.md",
     "03. ⭐️ Resource/Linux/Ubuntu/방화벽 설정 명령어.md",
     "03. ⭐️ Resource/Linux/Ubuntu",
     "03. ⭐️ Resource/Linux",
@@ -209,8 +217,6 @@
     "03. ⭐️ Resource/GitHub/Disscussion.md",
     "03. ⭐️ Resource/GitHub",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-09(금).md",
-    "02. 🏙️ Area/daily-note/2024-08-11.md",
-    "02. 🏙️ Area/daily-note/2024-08-10(토).md",
     "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
     "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md",
     "03. ⭐️ Resource/Information/나중에 공부할 내용.md",
@@ -218,15 +224,10 @@
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
-    "02. 🏙️ Area/daily-note/2024-08-09.md",
-    "01. 🗓️ Project/Adregamdi/MinIO.md",
-    "03. ⭐️ Resource/Front/zustand.md",
     "01. 🗓️ Project/Adregamdi",
     "03. ⭐️ Resource/Front/zustand",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-08(목).md",
     "03. ⭐️ Resource/Front",
     "01. 🗓️ Project/BootBox/무제 폴더",
     "05. 🖼️ images/Pasted image 20240804143555.png",
@@ -235,7 +236,6 @@
     "05. 🖼️ images/Pasted image 20240804143458.png",
     "05. 🖼️ images/Pasted image 20240804143431.png",
     "03. ⭐️ Resource/git",
-    "02. 🏙️ Area/daily-note/2024-08",
     "Tasks-Canvas.canvas",
     "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
     "05. 🖼️ images/image-20240409142239777.png",
