@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-15(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-15(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08-15(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+                "file": "02. 🏙️ Area/daily-note/2024-08-15(목).md"
               }
             }
           }
@@ -195,6 +195,7 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "02. 🏙️ Area/daily-note/2024-08-15(목).md",
     "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
@@ -225,7 +226,6 @@
     "03. ⭐️ Resource/Information/유용한 사이트 모음.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/Adregamdi",
     "03. ⭐️ Resource/Front/zustand",
     "03. ⭐️ Resource/Front",
