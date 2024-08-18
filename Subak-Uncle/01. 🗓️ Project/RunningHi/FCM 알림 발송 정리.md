@@ -57,3 +57,14 @@
 FCM 메시지 생성 및 전송 로직 구현
 
 
+```json
+{
+  "alarmId": 1,
+  "title": "새로운 댓글이 달렸습니다",
+  "alarmType": "REPLY",
+  "targetPage": "POST",
+  "targetId": 30,
+  "isRead": false,
+  "createDate": "2024-06-01T00:00:00"
+}
+```

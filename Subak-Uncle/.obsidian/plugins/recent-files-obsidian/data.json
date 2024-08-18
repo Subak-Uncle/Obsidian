@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "Mermaid to png",
+      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
+    },
+    {
       "basename": "2024-08-16",
       "path": "02. 🏙️ Area/daily-note/2024-08-16.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "2024-07-31(수)",
       "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-31(수).md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "2024-08-03(토)",
@@ -55,14 +67,6 @@
     {
       "basename": "Today Tasks",
       "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "zustand",
