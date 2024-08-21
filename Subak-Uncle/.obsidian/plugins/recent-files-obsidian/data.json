@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-20",
-      "path": "02. 🏙️ Area/daily-note/2024-08-20.md"
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "2024-08-15(목)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-15(목).md"
+    },
+    {
+      "basename": "2024-08-16(금)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-16(금).md"
+    },
+    {
+      "basename": "2024-08-19(월)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-19(월).md"
+    },
+    {
+      "basename": "2024-08-20(화)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-20(화).md"
+    },
+    {
+      "basename": "2024-08-21(수)",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-21(수).md"
+    },
+    {
+      "basename": "todo",
+      "path": "06. 📝 templates/todo.md"
+    },
+    {
+      "basename": "메타 데이터",
+      "path": "06. 📝 templates/메타 데이터.md"
     },
     {
       "basename": "2024-08-14(수)",
@@ -25,24 +53,12 @@
       "path": "fcm.png"
     },
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "2024-08-16",
-      "path": "02. 🏙️ Area/daily-note/2024-08-16.md"
-    },
-    {
       "basename": "FCM 알림 발송 정리",
       "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
     },
     {
       "basename": "Trouble Shooting - ByteBuddy",
       "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
-    },
-    {
-      "basename": "2024-08-15(목)",
-      "path": "02. 🏙️ Area/daily-note/2024-08-15(목).md"
     },
     {
       "basename": "2024-08-10(토)",
@@ -107,14 +123,6 @@
     {
       "basename": "2024-08-05(월)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md"
-    },
-    {
-      "basename": "메타 데이터",
-      "path": "06. 📝 templates/메타 데이터.md"
-    },
-    {
-      "basename": "todo",
-      "path": "06. 📝 templates/todo.md"
     },
     {
       "basename": "닮은 연예인 찾기 웹 애플리케이션",
