@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
+                "file": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "01. 🗓️ Project/미드나잇캠프.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
+    "01. 🗓️ Project/미드나잇캠프.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-15(목).md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-16(금).md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-19(월).md",
