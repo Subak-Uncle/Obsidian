@@ -77,5 +77,51 @@ ip addr show docker0
 >> 172.17.0.1/16
 ```
 
-해당 IP를 nginx 설
+해당 IP를 nginx 설정 파일에서 **upstream**에 작성해줍니다.
+```bash
+upstream backend {
+    server 172.17.0.1:8080;  # 도커 호스트 IP와 매핑된 포트
+}
 
+server {
+        listen 80 default_server;
+        listen [::]:80 default_server;
+
+
+        server_name _;
+        return 301 https://$host$request_uri;
+}
+
+server{
+        listen [::]:443 ssl;
+        listen 443 ssl;
+        server_name www.runninghi.store runninghi.store;
+    ssl_certificate /etc/letsencrypt/live/runninghi.store-0001/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/runninghi.store-0001/privkey.pem; # managed by Certbot
+
+
+    # HSTS 설정
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+
+
+        location / {
+                proxy_pass http://backend;
+                proxy_http_version 1.1;
+                proxy_set_header Upgrade $http_upgrade;
+                proxy_set_header Host $host;
+                proxy_cache_bypass $http_upgrade;
+        }
+
+        location ~ /\.well-known/acme-challenge/ {
+                default_type "text/plain";
+                root /var/www/letsencrypt;
+        } 
+
+}
+```
+
+설정을 마치고, nginx를 재시작하여 설정을 적용합니다.
+```bash
+1. nginx -t
+2. systemctl restart nginx
+```
