@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "러닝하이 백엔드 컨벤션",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
+    },
+    {
+      "basename": "Mermaid to png",
+      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "어드레감디 - Tasks",
+      "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
+    },
+    {
+      "basename": "앱 배포 특강",
+      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
+    },
+    {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
@@ -45,10 +65,6 @@
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-14(수).md"
     },
     {
-      "basename": "Mermaid to png",
-      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
-    },
-    {
       "basename": "Tasks-Canvas",
       "path": "Tasks-Canvas.canvas"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "fcm",
       "path": "fcm.png"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
     },
     {
       "basename": "Trouble Shooting - ByteBuddy",
