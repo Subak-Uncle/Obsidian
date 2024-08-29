@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-08-29",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md"
+      "basename": "알림 가이드",
+      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
+    },
+    {
+      "basename": "fcm",
+      "path": "fcm.png"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "Mermaid to png",
       "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
     },
     {
-      "basename": "2024-08-26",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-26.md"
+      "basename": "러닝하이 백엔드 컨벤션",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
+    },
+    {
+      "basename": "2024-08-29",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md"
     },
     {
       "basename": "0824 - nginx 에러 Trouble Shooting",
@@ -23,14 +39,6 @@
     {
       "basename": "2024-08-25",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-25.md"
-    },
-    {
-      "basename": "러닝하이 백엔드 컨벤션",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
     },
     {
       "basename": "어드레감디 - Tasks",
@@ -87,14 +95,6 @@
     {
       "basename": "Note Rule",
       "path": "Note Rule.md"
-    },
-    {
-      "basename": "fcm",
-      "path": "fcm.png"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "2024-08-10(토)",
