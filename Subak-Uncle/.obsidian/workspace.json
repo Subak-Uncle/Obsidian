@@ -11,11 +11,9 @@
             "id": "1c3db1f9aac4a6af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled diagram-2024-08-28-162711.png"
               }
             }
           },
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "Untitled diagram-2024-08-28-162711.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "Untitled diagram-2024-08-28-162711.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
+                "file": "Untitled diagram-2024-08-28-162711.png"
               }
             }
           }
@@ -207,13 +205,13 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "1c3db1f9aac4a6af",
+  "active": "9cf760fd9419c9ac",
   "lastOpenFiles": [
     "02. 🏙️ Area/daily-note/2024-08/2024-09-01.md",
-    "Untitled diagram-2024-08-28-162711.png",
     "Tasks-Canvas.canvas",
     "fcm.png",
     "Note Rule.md",
+    "Untitled diagram-2024-08-28-162711.png",
     "conflict-files-obsidian-git.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md",
     "01. 🗓️ Project/RunningHi/알림 가이드.md",
@@ -237,6 +235,7 @@
     "02. 🏙️ Area/daily-note/2024-08/2024-08-15(목).md",
     "06. 📝 templates/todo.md",
     "06. 📝 templates/메타 데이터.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-14(수).md",
     "codes",
     "03. ⭐️ Resource/Linux/Ubuntu",
     "03. ⭐️ Resource/Linux",
