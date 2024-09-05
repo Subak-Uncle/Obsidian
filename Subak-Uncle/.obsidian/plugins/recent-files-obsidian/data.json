@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "nginx 기본 주석내용",
+      "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
+    },
+    {
       "basename": "2024-09-05",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240804143539",
       "path": "05. 🖼️ images/Pasted image 20240804143539.png"
-    },
-    {
-      "basename": "AnuPpuccin",
-      "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
     }
   ],
   "omittedPaths": []

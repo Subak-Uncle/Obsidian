@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md",
+                "file": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md",
+                "file": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md",
+                "file": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md"
+                "file": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
               }
             }
           }
@@ -209,8 +209,9 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "Untitled diagram-2024-08-28-162711.png",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md",
+    "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
+    "Untitled diagram-2024-08-28-162711.png",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-02.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-01.md",
     "Tasks-Canvas.canvas",
