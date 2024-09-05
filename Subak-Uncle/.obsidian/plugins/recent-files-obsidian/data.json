@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-05",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md"
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "Mermaid to png",
+      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "nginx 기본 주석내용",
       "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
+    },
+    {
+      "basename": "알림 가이드",
+      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
+    },
+    {
+      "basename": "대한민국 행정구영",
+      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
+    },
+    {
+      "basename": "2024-09-05",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md"
     },
     {
       "basename": "Untitled diagram-2024-08-28-162711",
@@ -37,10 +57,6 @@
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md"
     },
     {
-      "basename": "Mermaid to png",
-      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
-    },
-    {
       "basename": "2024-08-26",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-26.md"
     },
@@ -59,10 +75,6 @@
     {
       "basename": "러닝하이 백엔드 컨벤션",
       "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
     },
     {
       "basename": "어드레감디 - Tasks",
@@ -107,10 +119,6 @@
     {
       "basename": "2024-08-14(수)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-14(수).md"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
       "basename": "2024-08-10(토)",
@@ -181,10 +189,6 @@
       "path": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md"
     },
     {
-      "basename": "대한민국 행정구영",
-      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
-    },
-    {
       "basename": "커밋 혹은 변경사항 롤백",
       "path": "03. ⭐️ Resource/git/커밋 혹은 변경사항 롤백.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240804143555",
       "path": "05. 🖼️ images/Pasted image 20240804143555.png"
-    },
-    {
-      "basename": "Pasted image 20240804143539",
-      "path": "05. 🖼️ images/Pasted image 20240804143539.png"
     }
   ],
   "omittedPaths": []
