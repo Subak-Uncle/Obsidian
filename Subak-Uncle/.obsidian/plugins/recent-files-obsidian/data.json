@@ -5,6 +5,22 @@
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
     },
     {
+      "basename": "방화벽 설정 명령어",
+      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
+    },
+    {
+      "basename": "window-wsl2를 이용한 배포 설정",
+      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+    },
+    {
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
       "basename": "DNS 설정 확인",
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
     },
@@ -37,10 +53,6 @@
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md"
     },
     {
-      "basename": "방화벽 설정 명령어",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
-    },
-    {
       "basename": "러닝하이 백엔드 컨벤션",
       "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
     },
@@ -49,16 +61,8 @@
       "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
     },
     {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
       "basename": "Note Rule",
       "path": "Note Rule.md"
-    },
-    {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
     },
     {
       "basename": "Untitled diagram-2024-08-28-162711",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-05(월)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md"
-    },
-    {
-      "basename": "닮은 연예인 찾기 웹 애플리케이션",
-      "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
     }
   ],
   "omittedPaths": []
