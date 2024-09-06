@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-06",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md"
+    },
+    {
       "basename": "FCM 알림 발송 정리",
       "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Submodule",
       "path": "03. ⭐️ Resource/git/Submodule.md"
-    },
-    {
-      "basename": "Pasted image 20240804143555",
-      "path": "05. 🖼️ images/Pasted image 20240804143555.png"
     }
   ],
   "omittedPaths": []
