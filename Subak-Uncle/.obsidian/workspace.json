@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
               }
             }
           }
@@ -209,11 +209,12 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-07.md",
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "Tasks-Canvas.canvas",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/RunningHi/알림 가이드.md",
