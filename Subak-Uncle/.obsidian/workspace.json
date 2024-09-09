@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
+                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md"
+                "file": "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md"
               }
             }
           }
@@ -209,50 +209,50 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-07.md",
-    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
-    "01. 🗓️ Project/Adregamdi/앱 배포 특강.md",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
-    "Tasks-Canvas.canvas",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
-    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
-    "01. 🗓️ Project/RunningHi/알림 가이드.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
-    "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
-    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
-    "01. 🗓️ Project/RunningHi/Mermaid to png.md",
-    "Note Rule.md",
-    "Untitled diagram-2024-08-28-162711.png",
-    "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-02.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-01.md",
-    "fcm.png",
     "conflict-files-obsidian-git.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-26.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-24.md",
-    "codes",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-07.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
+    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu",
     "03. ⭐️ Resource/Linux-macOS",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+    "01. 🗓️ Project/RunningHi/Mermaid to png.md",
+    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
+    "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
+    "01. 🗓️ Project/RunningHi/알림 가이드.md",
+    "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-05.md",
+    "Untitled diagram-2024-08-28-162711.png",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-02.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-01.md",
+    "Tasks-Canvas.canvas",
+    "fcm.png",
+    "Note Rule.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-26.md",
+    "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-24.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-22.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-08-25.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
+    "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md",
+    "codes",
+    "03. ⭐️ Resource/Linux/Ubuntu",
+    "03. ⭐️ Resource/Linux",
     "03. ⭐️ Resource/Java-Spring",
     "03. ⭐️ Resource/GitHub",
     "01. 🗓️ Project/Adregamdi",
     "03. ⭐️ Resource/Front/zustand",
     "03. ⭐️ Resource/Front",
-    "01. 🗓️ Project/BootBox/무제 폴더",
     "05. 🖼️ images/Pasted image 20240804143555.png",
     "05. 🖼️ images/Pasted image 20240804143539.png",
     "05. 🖼️ images/Pasted image 20240804143518.png",
     "05. 🖼️ images/Pasted image 20240804143458.png",
     "05. 🖼️ images/Pasted image 20240804143431.png",
-    "03. ⭐️ Resource/git",
     "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
     "05. 🖼️ images/image-20240409142239777.png",
     "05. 🖼️ images/Pasted image 20240728235555.png"
