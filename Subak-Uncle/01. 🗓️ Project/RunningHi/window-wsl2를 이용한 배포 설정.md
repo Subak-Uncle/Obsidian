@@ -406,3 +406,31 @@ getent passwd new_username
 ```
 
 이 방식으로 추가 계정을 생성하고, 필요하면 관리자 권한까지 부여할 수 있습니다.
+
+## 7. 데이터베이스 외부 접근 허용
+### 1. 3306 포트 방화벽 & 포트포워딩 설정
+### 2. 외부 접근 가능하도록 설정 변경
+MySQL은 기본적으로 **로컬 호스트(127.0.0.1)**에서만 접속을 허용합니다. 외부에서 접속할 수 있도록 모든 IP에서의 접속을 허용하도록 설정해야 합니다.
+
+#### 2.1 MySQL 설정 파일 확인
+MySQL 설정 파일(/etc/mysql/mysql.conf.d/mysqld.cnf 또는 /etc/mysql/my.cnf)에서 bind-address를 확인합니다.
+
+```
+sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
+```
+이 파일에서 bind-address 항목을 찾습니다. 기본적으로 다음과 같이 설정되어 있을 것입니다:
+
+```
+bind-address = 127.0.0.1
+```
+127.0.0.1로 설정되어 있으면 외부 접속을 차단하므로, 이를 0.0.0.0으로 변경하여 모든 IP 주소에서의 접속을 허용합니다.
+
+```
+bind-address = 0.0.0.0
+```
+
+#### 2.2 MySQL 서비스 재시작
+설정을 변경한 후, MySQL 서비스를 재시작합니다.
+```
+sudo systemctl restart mysql
+```
