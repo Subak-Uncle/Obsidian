@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+      "basename": "2024-09-12",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-12.md"
+    },
+    {
+      "basename": "0824 - nginx 에러 Trouble Shooting",
+      "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
     },
     {
       "basename": "러닝하이 - Tasks",
       "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
+    },
+    {
+      "basename": "알림 가이드",
+      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
+    },
+    {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "2024-09-06",
@@ -19,10 +31,6 @@
     {
       "basename": "2024-09-10",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-10.md"
-    },
-    {
-      "basename": "2024-09-12",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-12.md"
     },
     {
       "basename": "MySQL connection lock",
@@ -59,14 +67,6 @@
     {
       "basename": "FCM 알림 발송 정리",
       "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
-    },
-    {
-      "basename": "알림 가이드",
-      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
-    },
-    {
-      "basename": "0824 - nginx 에러 Trouble Shooting",
-      "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
     },
     {
       "basename": "nginx 기본 주석내용",
@@ -195,10 +195,6 @@
     {
       "basename": "2024-08-08(목)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-08(목).md"
-    },
-    {
-      "basename": "버전 정보",
-      "path": "01. 🗓️ Project/BootBox/story-board/버전 정보.md"
     }
   ],
   "omittedPaths": []
