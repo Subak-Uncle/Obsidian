@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
               }
             }
           }
@@ -209,11 +209,13 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
-    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-10.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-12.md",
+    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-07.md",
     "01. 🗓️ Project/Adregamdi/앱 배포 특강.md",
@@ -223,7 +225,6 @@
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/RunningHi/알림 가이드.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
@@ -237,7 +238,6 @@
     "02. 🏙️ Area/daily-note/2024-08/2024-09-01.md",
     "fcm.png",
     "conflict-files-obsidian-git.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md",
     "codes",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu",
     "03. ⭐️ Resource/Linux-macOS",
