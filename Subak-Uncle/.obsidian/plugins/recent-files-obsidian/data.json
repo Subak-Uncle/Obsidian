@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
-    },
-    {
-      "basename": "2024-09-10",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-10.md"
-    },
-    {
-      "basename": "앱 배포 특강",
-      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
-    },
-    {
-      "basename": "window-wsl2를 이용한 배포 설정",
-      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+      "basename": "ip 체크 방법",
+      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
     },
     {
       "basename": "FCM 알림 발송 정리",
@@ -25,6 +13,10 @@
       "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
     },
     {
+      "basename": "MySQL connection lock",
+      "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
+    },
+    {
       "basename": "nginx 기본 주석내용",
       "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
     },
@@ -33,8 +25,28 @@
       "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
     },
     {
+      "basename": "window-wsl2를 이용한 배포 설정",
+      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+    },
+    {
       "basename": "2024-09-09",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md"
+    },
+    {
+      "basename": "2024-09-10",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-10.md"
+    },
+    {
+      "basename": "2024-09-12",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-12.md"
+    },
+    {
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
+      "basename": "앱 배포 특강",
+      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
     },
     {
       "basename": "2024-09-06",
@@ -187,18 +199,6 @@
     {
       "basename": "BootBox  - Tasks",
       "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
-      "basename": "2024-08-06(화)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-06(화).md"
-    },
-    {
-      "basename": "2024-08-05(월)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-05(월).md"
-    },
-    {
-      "basename": "닮은 연예인 찾기 웹 애플리케이션",
-      "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
     }
   ],
   "omittedPaths": []

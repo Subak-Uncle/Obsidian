@@ -11,14 +11,11 @@
             "id": "5da2967b28701b92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tasks-Canvas.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": -1380,
-                  "zoom": -2.6540408834602074
-                }
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks-Canvas.canvas",
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks-Canvas.canvas",
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks-Canvas.canvas"
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
               }
             }
           }
@@ -197,16 +194,17 @@
   },
   "active": "5da2967b28701b92",
   "lastOpenFiles": [
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-10.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-12.md",
-    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
-    "01. 🗓️ Project/Adregamdi/앱 배포 특강.md",
-    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/RunningHi/Mermaid to png.md",
+    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-09.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-10.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-12.md",
+    "Tasks-Canvas.canvas",
+    "01. 🗓️ Project/Adregamdi/앱 배포 특강.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-06.md",
     "conflict-files-obsidian-git.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-07.md",
@@ -221,13 +219,11 @@
     "Untitled diagram-2024-08-28-162711.png",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-02.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-01.md",
-    "Tasks-Canvas.canvas",
     "fcm.png",
     "Note Rule.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-08-26.md",
     "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-08-24.md",
     "codes",
     "03. ⭐️ Resource/Linux/Ubuntu",
     "03. ⭐️ Resource/Linux",
