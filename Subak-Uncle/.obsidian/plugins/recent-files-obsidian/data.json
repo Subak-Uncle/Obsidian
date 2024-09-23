@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-09-23",
+      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md"
+    },
+    {
       "basename": "ip 체크 방법",
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "zustand",
       "path": "03. ⭐️ Resource/Front/zustand.md"
-    },
-    {
-      "basename": "2024-08-08(목)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-08(목).md"
     }
   ],
   "omittedPaths": []
