@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30.md",
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30.md",
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30.md",
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30.md"
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md"
               }
             }
           }
@@ -209,9 +209,11 @@
   },
   "active": "1c3db1f9aac4a6af",
   "lastOpenFiles": [
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-30.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md",
+    "02. 🏙️ Area/daily-note/2024-08/2024-09-30(.md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
     "Pasted image 20240921003610.png",
-    "02. 🏙️ Area/daily-note/2024-09/2024-09-30.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-09-12.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-09-09.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-09-20.md",
@@ -223,7 +225,6 @@
     "02. 🏙️ Area/daily-note/2024-09",
     "01. 🗓️ Project/RunningHi/아키텍처.md",
     "01. 🗓️ Project/PG.md",
-    "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md",
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
     "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
