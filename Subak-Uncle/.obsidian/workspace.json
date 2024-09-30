@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+                "file": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+                "file": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+                "file": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
+                "file": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
               }
             }
           }
@@ -207,8 +207,8 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
-    "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
     "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+    "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
     "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
     "Tasks-Canvas.canvas",
     "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
