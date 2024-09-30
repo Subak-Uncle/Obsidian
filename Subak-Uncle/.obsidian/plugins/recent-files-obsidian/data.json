@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "ubuntu 계정 or 그룹 생성",
-      "path": "01. 🗓️ Project/RunningHi/ubuntu 계정 or 그룹 생성.md"
+      "basename": "Git Secrets 내용",
+      "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
+    },
+    {
+      "basename": "Git Secrets 설정",
+      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
+    },
+    {
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
+      "basename": "Ubuntu 계정 및 권한 관리 가이드",
+      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
     },
     {
       "basename": "window-wsl2를 이용한 배포 설정",
@@ -65,10 +77,6 @@
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md"
     },
     {
-      "basename": "Git Secrets 설정",
-      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
-    },
-    {
       "basename": "MySQL 계정 생성",
       "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "BootBox  - Tasks",
       "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
     },
     {
       "basename": "Note Rule",
