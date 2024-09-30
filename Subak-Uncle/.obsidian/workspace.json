@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
+                "file": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
+                "file": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
+                "file": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md"
+                "file": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
               }
             }
           }
@@ -207,12 +207,13 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "1c3db1f9aac4a6af",
+  "active": "cf4b47c855f84665",
   "lastOpenFiles": [
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "02. 🏙️ Area/Tasks/Today Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md",
     "02. 🏙️ Area/daily-note/2024-08/2024-09-30(.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md",
     "Pasted image 20240921003610.png",
     "02. 🏙️ Area/daily-note/2024-09/2024-09-12.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-09-09.md",
@@ -237,7 +238,6 @@
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
     "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
     "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
-    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "Tasks-Canvas.canvas",
     "Untitled diagram-2024-08-28-162711.png",
     "fcm.png",

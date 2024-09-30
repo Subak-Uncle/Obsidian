@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "0824 - nginx 에러 Trouble Shooting",
+      "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
+    },
+    {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+    },
+    {
       "basename": "2024-09-30(월)",
       "path": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md"
     },
     {
       "basename": "2024-09-23",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "window-wsl2를 이용한 배포 설정",
@@ -47,10 +55,6 @@
     {
       "basename": "MySQL connection lock",
       "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
-    },
-    {
-      "basename": "0824 - nginx 에러 Trouble Shooting",
-      "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
     },
     {
       "basename": "FCM 알림 발송 정리",
