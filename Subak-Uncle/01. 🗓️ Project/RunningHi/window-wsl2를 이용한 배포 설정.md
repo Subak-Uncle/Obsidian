@@ -290,7 +290,7 @@ sudo apt install openssl
 RSA 개인 키 생성:
 
 ```
-openssl genrsa -out privatekey.pem 2048
+ssh-keygen -t rsa -b 4096 -C "cicd@runninghi-dev.store" -f /home/cicd/.ssh/cicd-privatekey.pem
 ```
 privatekey.pem은 생성된 개인 키 파일입니다.
 
@@ -302,7 +302,7 @@ privatekey.pem은 생성된 개인 키 파일입니다.
 공개 키 추출:
 
 ```
-openssl rsa -in privatekey.pem -pubout -out publickey.pem
+ssh-keygen -y -f /home/cicd/.ssh/cicd-privatekey.pem > /home/cicd/.ssh/cicd-publickey.pub
 ```
 privatekey.pem을 사용해 publickey.pem 파일을 생성합니다.
 publickey.pem은 공개 키가 저장된 파일입니다.
