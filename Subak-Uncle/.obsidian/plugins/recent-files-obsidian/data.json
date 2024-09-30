@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "ubuntu 계정 or 그룹 생성",
+      "path": "01. 🗓️ Project/RunningHi/ubuntu 계정 or 그룹 생성.md"
+    },
+    {
+      "basename": "window-wsl2를 이용한 배포 설정",
+      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+    },
+    {
+      "basename": "아키텍처",
+      "path": "01. 🗓️ Project/RunningHi/아키텍처.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
+    },
+    {
+      "basename": "nginx 기본 주석내용",
+      "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
+    },
+    {
+      "basename": "PG",
+      "path": "01. 🗓️ Project/PG.md"
+    },
+    {
+      "basename": "MySQL connection lock",
+      "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "알림 가이드",
+      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
+    },
+    {
+      "basename": "러닝하이 백엔드 컨벤션",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
+    },
+    {
+      "basename": "러닝하이 - Tasks",
+      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
+    },
+    {
       "basename": "0824 - nginx 에러 Trouble Shooting",
       "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
     },
@@ -19,10 +63,6 @@
     {
       "basename": "2024-09-23",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md"
-    },
-    {
-      "basename": "window-wsl2를 이용한 배포 설정",
-      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
     },
     {
       "basename": "Git Secrets 설정",
@@ -45,32 +85,8 @@
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
     },
     {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
-    },
-    {
-      "basename": "nginx 기본 주석내용",
-      "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
-    },
-    {
-      "basename": "MySQL connection lock",
-      "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
-    },
-    {
-      "basename": "알림 가이드",
-      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
-    },
-    {
       "basename": "Mermaid to png",
       "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
-    },
-    {
-      "basename": "러닝하이 - Tasks",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
     },
     {
       "basename": "앱 배포 특강",
@@ -87,10 +103,6 @@
     {
       "basename": "Tasks-Canvas",
       "path": "Tasks-Canvas.canvas"
-    },
-    {
-      "basename": "러닝하이 백엔드 컨벤션",
-      "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
     },
     {
       "basename": "Note Rule",
