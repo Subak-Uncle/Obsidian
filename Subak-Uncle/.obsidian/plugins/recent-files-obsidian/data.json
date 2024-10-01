@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+    },
+    {
       "basename": "Docker 명령어",
       "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
     },
@@ -67,14 +75,6 @@
     {
       "basename": "0824 - nginx 에러 Trouble Shooting",
       "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "Today Tasks",
-      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
     },
     {
       "basename": "2024-09-30(월)",
