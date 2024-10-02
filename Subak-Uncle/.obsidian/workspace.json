@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c3db1f9aac4a6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d09cc9c3b5a72af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
+                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +31,7 @@
       {
         "id": "289a37180fba0303",
         "type": "tabs",
-        "dimension": 73.81422924901186,
+        "dimension": 69.80146290491118,
         "children": [
           {
             "id": "cf4b47c855f84665",
@@ -61,7 +48,7 @@
       {
         "id": "1f67b8fbadd367e9",
         "type": "tabs",
-        "dimension": 26.18577075098814,
+        "dimension": 30.198537095088817,
         "children": [
           {
             "id": "e5515159cf4470a6",
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
+                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
+                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
+                "file": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
               }
             }
           }
@@ -207,13 +194,16 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "Tasks-Canvas.canvas",
+    "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
+    "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-02.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
     "01. 🗓️ Project/Adregamdi/앱 배포 특강.md",
-    "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
     "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
     "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
     "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md",
@@ -225,15 +215,11 @@
     "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
-    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
     "01. 🗓️ Project/PG.md",
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
-    "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
     "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md",
-    "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
-    "Tasks-Canvas.canvas",
     "Pasted image 20240921003610.png",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",

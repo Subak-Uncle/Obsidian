@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Git Secrets 내용",
+      "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
+    },
+    {
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
+      "basename": "Git Secrets 설정",
+      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
+    },
+    {
       "basename": "Ubuntu 계정 및 권한 관리 가이드",
       "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "앱 배포 특강",
       "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
-    },
-    {
-      "basename": "Git Secrets 설정",
-      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
     },
     {
       "basename": "정보 구조도",
@@ -93,20 +101,12 @@
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
     },
     {
-      "basename": "Git Secrets 내용",
-      "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
-    },
-    {
       "basename": "Docker 명령어",
       "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
     },
     {
       "basename": "MySQL 계정 생성",
       "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
-    },
-    {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
     },
     {
       "basename": "아키텍처",
