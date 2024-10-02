@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "DNS 설정 확인",
+      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
+    },
+    {
+      "basename": "ip 체크 방법",
+      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
+    },
+    {
+      "basename": "앱 배포 특강",
+      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
+    },
+    {
+      "basename": "Git Secrets 설정",
+      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
+    },
+    {
+      "basename": "정보 구조도",
+      "path": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
+    },
+    {
+      "basename": "API 명세서",
+      "path": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md"
+    },
+    {
+      "basename": "HTTPS 설정",
+      "path": "01. 🗓️ Project/BootBox/xr-api/HTTPS 설정.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+    },
+    {
+      "basename": "대한민국 행정구영",
+      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
+    },
+    {
+      "basename": "알림 가이드",
+      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
+    },
+    {
+      "basename": "FCM 알림 발송 정리",
+      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
+    },
+    {
+      "basename": "Mermaid to png",
+      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
+    },
+    {
+      "basename": "MySQL connection lock",
+      "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
+    },
+    {
+      "basename": "nginx 기본 주석내용",
+      "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
+    },
+    {
+      "basename": "Ubuntu 계정 및 권한 관리 가이드",
+      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
+    },
+    {
+      "basename": "PG",
+      "path": "01. 🗓️ Project/PG.md"
+    },
+    {
+      "basename": "window-wsl2를 이용한 배포 설정",
+      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+    },
+    {
+      "basename": "버전 정보",
+      "path": "01. 🗓️ Project/BootBox/story-board/버전 정보.md"
+    },
+    {
+      "basename": "방화벽 설정 명령어",
+      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
+    },
+    {
       "basename": "Git Secrets 내용",
       "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
     },
@@ -17,52 +97,16 @@
       "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
     },
     {
-      "basename": "window-wsl2를 이용한 배포 설정",
-      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
-    },
-    {
       "basename": "MySQL 계정 생성",
       "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
-    },
-    {
-      "basename": "Git Secrets 설정",
-      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
     },
     {
       "basename": "Tasks-Canvas",
       "path": "Tasks-Canvas.canvas"
     },
     {
-      "basename": "Ubuntu 계정 및 권한 관리 가이드",
-      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
-    },
-    {
       "basename": "아키텍처",
       "path": "01. 🗓️ Project/RunningHi/아키텍처.md"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
-    },
-    {
-      "basename": "nginx 기본 주석내용",
-      "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
-    },
-    {
-      "basename": "PG",
-      "path": "01. 🗓️ Project/PG.md"
-    },
-    {
-      "basename": "MySQL connection lock",
-      "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
-    },
-    {
-      "basename": "알림 가이드",
-      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
     },
     {
       "basename": "러닝하이 백엔드 컨벤션",
@@ -83,34 +127,6 @@
     {
       "basename": "2024-09-23",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md"
-    },
-    {
-      "basename": "대한민국 행정구영",
-      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
-    },
-    {
-      "basename": "ip 체크 방법",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
-    },
-    {
-      "basename": "DNS 설정 확인",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
-    },
-    {
-      "basename": "Mermaid to png",
-      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
-    },
-    {
-      "basename": "앱 배포 특강",
-      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
-    },
-    {
-      "basename": "방화벽 설정 명령어",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
-    },
-    {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
     },
     {
       "basename": "Note Rule",
@@ -183,18 +199,6 @@
     {
       "basename": "2024-07-31(수)",
       "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-31(수).md"
-    },
-    {
-      "basename": "2024-08-03(토)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-03(토).md"
-    },
-    {
-      "basename": "나중에 공부할 내용",
-      "path": "03. ⭐️ Resource/Information/나중에 공부할 내용.md"
-    },
-    {
-      "basename": "마크다운 글자색",
-      "path": "03. ⭐️ Resource/Information/마크다운 글자색.md"
     }
   ],
   "omittedPaths": []
