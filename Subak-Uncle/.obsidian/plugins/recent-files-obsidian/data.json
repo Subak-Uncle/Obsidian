@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
+    },
+    {
+      "basename": "2024-10-02",
+      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-02.md"
+    },
+    {
       "basename": "DNS 설정 확인",
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
     },
@@ -83,14 +95,6 @@
     {
       "basename": "Git Secrets 내용",
       "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
-      "basename": "Today Tasks",
-      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
     },
     {
       "basename": "Docker 명령어",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-10(토)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-10(토).md"
-    },
-    {
-      "basename": "2024-07-31(수)",
-      "path": "02. 🏙️ Area/daily-note/2024-07/2024-07-31(수).md"
     }
   ],
   "omittedPaths": []
