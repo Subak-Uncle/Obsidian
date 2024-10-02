@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
+                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
               }
             }
           }
@@ -207,6 +207,7 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-02.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
@@ -230,7 +231,6 @@
     "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
     "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md",
     "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
     "Tasks-Canvas.canvas",

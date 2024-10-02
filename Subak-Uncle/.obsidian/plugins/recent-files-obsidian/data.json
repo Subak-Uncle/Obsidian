@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ubuntu 계정 및 권한 관리 가이드",
+      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
+    },
+    {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Trouble Shooting - ByteBuddy",
       "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
-    },
-    {
-      "basename": "Ubuntu 계정 및 권한 관리 가이드",
-      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
     },
     {
       "basename": "PG",
