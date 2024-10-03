@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "wsl ip 확인",
+      "path": "01. 🗓️ Project/RunningHi/wsl ip 확인.md"
+    },
+    {
+      "basename": "ubuntu 시스템 로그 확인 방법",
+      "path": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md"
+    },
+    {
       "basename": "Git Secrets 내용",
       "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "메타 데이터",
       "path": "06. 📝 templates/메타 데이터.md"
-    },
-    {
-      "basename": "2024-08-14(수)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-14(수).md"
-    },
-    {
-      "basename": "2024-08-10(토)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-10(토).md"
     }
   ],
   "omittedPaths": []
