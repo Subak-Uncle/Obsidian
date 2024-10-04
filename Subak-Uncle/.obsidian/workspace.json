@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
+                "file": "02. 🏙️ Area/daily-note/2024-09/2024-10-04.md"
               }
             }
           }
@@ -194,6 +194,8 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-09/2024-10-04.md",
     "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
@@ -202,7 +204,6 @@
     "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
     "Tasks-Canvas.canvas",
     "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-02.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
@@ -220,7 +221,6 @@
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
     "01. 🗓️ Project/PG.md",
-    "01. 🗓️ Project/BootBox/story-board/버전 정보.md",
     "Pasted image 20240921003610.png",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",
