@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
       "basename": "wsl ip 확인",
       "path": "01. 🗓️ Project/RunningHi/wsl ip 확인.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Git Secrets 설정",
       "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "Today Tasks",
