@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Rule.md",
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Rule.md",
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Rule.md",
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Rule.md"
+                "file": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
               }
             }
           }
@@ -194,6 +194,8 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "02. 🏙️ Area/daily-note/2024-09/2024-10-10.md",
+    "Note Rule.md",
     "Pasted image 20241008100254.png",
     "fcm.png",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-07.md",
@@ -221,7 +223,6 @@
     "01. 🗓️ Project/RunningHi/알림 가이드.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
     "01. 🗓️ Project/RunningHi/Mermaid to png.md",
-    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
     "Pasted image 20240921003610.png",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",
@@ -239,7 +240,6 @@
     "05. 🖼️ images/Pasted image 20240804143518.png",
     "05. 🖼️ images/Pasted image 20240804143458.png",
     "05. 🖼️ images/Pasted image 20240804143431.png",
-    "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png",
-    "05. 🖼️ images/image-20240409142239777.png"
+    "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png"
   ]
 }
