@@ -294,8 +294,6 @@ ssh-keygen -t rsa -b 4096 -C "cicd@runninghi-dev.store" -f /home/cicd/.ssh/cicd-
 ```
 privatekey.pem은 생성된 개인 키 파일입니다.
 
-2048은 키의 비트 길이로, 일반적으로 2048비트 이상을 사용합니다.
-
 #### 3. 공개 키(.pem) 생성
 공개 키는 다른 서버와 공유할 수 있는 정보입니다. 개인 키에서 공개 키를 추출할 수 있습니다.
 
