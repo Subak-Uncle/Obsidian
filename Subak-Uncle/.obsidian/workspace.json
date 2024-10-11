@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md"
+                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
               }
             }
           }
@@ -194,16 +194,18 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
+    "02. 🏙️ Area/daily-note/2024-09/2024-10-10.md",
+    "02. 🏙️ Area/daily-note/2024-09/2024-10-11.md",
+    "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
     "2024-09-13_3.38.32.png",
     "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
-    "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
     "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
     "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
-    "02. 🏙️ Area/daily-note/2024-09/2024-10-10.md",
     "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-07.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
@@ -222,7 +224,6 @@
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
     "01. 🗓️ Project/Adregamdi/앱 배포 특강.md",
     "01. 🗓️ Project/BootBox/story-board/정보 구조도.md",
-    "01. 🗓️ Project/BootBox/xr-api/API 명세서.md",
     "Pasted image 20240921003610.png",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",
@@ -239,7 +240,6 @@
     "05. 🖼️ images/Pasted image 20240804143539.png",
     "05. 🖼️ images/Pasted image 20240804143518.png",
     "05. 🖼️ images/Pasted image 20240804143458.png",
-    "05. 🖼️ images/Pasted image 20240804143431.png",
-    "05. 🖼️ images/스크린샷 2024-04-09 오후 1.48.17.png"
+    "05. 🖼️ images/Pasted image 20240804143431.png"
   ]
 }

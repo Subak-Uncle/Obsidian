@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "window-wsl2를 이용한 배포 설정",
+      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+    },
+    {
+      "basename": "레디스 서버 살리는 명령어",
+      "path": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
+    },
+    {
+      "basename": "2024-10-10",
+      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-10.md"
+    },
+    {
+      "basename": "2024-10-11",
+      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-11.md"
+    },
+    {
       "basename": "러닝 기록 측정 계산법",
       "path": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md"
     },
     {
       "basename": "wsl ip 확인",
       "path": "01. 🗓️ Project/RunningHi/wsl ip 확인.md"
-    },
-    {
-      "basename": "window-wsl2를 이용한 배포 설정",
-      "path": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
     },
     {
       "basename": "ubuntu 시스템 로그 확인 방법",
@@ -31,10 +43,6 @@
     {
       "basename": "MySQL connection lock",
       "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
-    },
-    {
-      "basename": "2024-10-10",
-      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-10.md"
     },
     {
       "basename": "주간 업무 일지 양식",
