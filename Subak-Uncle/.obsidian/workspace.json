@@ -11,14 +11,11 @@
             "id": "d09cc9c3b5a72af9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
               }
             }
           }
@@ -197,8 +194,9 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
-    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
+    "02. 🏙️ Area/daily-note/2024-09/2024-10-14.md",
     "무제 파일.canvas",
+    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
     "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/RunningHi/Mermaid to png.md",
@@ -225,7 +223,6 @@
     "Note Rule.md",
     "Pasted image 20241008100254.png",
     "fcm.png",
-    "02. 🏙️ Area/daily-note/2024-09/2024-10-05.md",
     "Tasks-Canvas.canvas",
     "Pasted image 20240921003610.png",
     "02. 🏙️ Area/daily-note/2024-09",

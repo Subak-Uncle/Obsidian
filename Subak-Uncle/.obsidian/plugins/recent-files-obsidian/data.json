@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "2024-10-14",
+      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-14.md"
+    },
+    {
       "basename": "무제 파일",
       "path": "무제 파일.canvas"
     },
@@ -105,10 +113,6 @@
       "path": "fcm.png"
     },
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
-    },
-    {
       "basename": "Tasks-Canvas",
       "path": "Tasks-Canvas.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-16(금)",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-16(금).md"
-    },
-    {
-      "basename": "2024-08-19(월)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-19(월).md"
     }
   ],
   "omittedPaths": []
