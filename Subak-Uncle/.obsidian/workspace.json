@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fj",
+                "query": "bg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md"
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md"
               }
             }
           }
@@ -192,10 +192,10 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "d09cc9c3b5a72af9",
+  "active": "e5515159cf4470a6",
   "lastOpenFiles": [
     "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
-    "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
+    "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-14.md",
     "무제 파일.canvas",
