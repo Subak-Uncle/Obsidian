@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "테마 적용 tailwind",
+      "path": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md"
+    },
+    {
       "basename": "러닝 기록 측정 계산법",
       "path": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "어드레감디 - Tasks",
       "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
-    },
-    {
-      "basename": "2024-08-16(금)",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-16(금).md"
     }
   ],
   "omittedPaths": []

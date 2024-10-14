@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md"
+                "file": "01. 🗓️ Project/BootBox/테마 적용 tailwind.md"
               }
             }
           }
@@ -194,6 +194,8 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+    "01. 🗓️ Project/BootBox/테마 적용 tailwind.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-14.md",
     "무제 파일.canvas",
@@ -207,7 +209,6 @@
     "01. 🗓️ Project/RunningHi/아키텍처.md",
     "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
     "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
     "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
@@ -221,7 +222,6 @@
     "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-07.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
-    "Note Rule.md",
     "Pasted image 20241008100254.png",
     "fcm.png",
     "Tasks-Canvas.canvas",
