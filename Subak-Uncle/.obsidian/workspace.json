@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
+                "file": "01. 🗓️ Project/https.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
+                "file": "01. 🗓️ Project/https.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
+                "file": "01. 🗓️ Project/https.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
+                "file": "01. 🗓️ Project/https.md"
               }
             }
           }
@@ -194,6 +194,9 @@
   },
   "active": "d09cc9c3b5a72af9",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+    "01. 🗓️ Project/https.md",
+    "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
     "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md",
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-16.md",
@@ -205,7 +208,6 @@
     "무제 파일.canvas",
     "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
     "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
-    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/RunningHi/Mermaid to png.md",
     "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
@@ -218,9 +220,7 @@
     "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
     "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
     "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
-    "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-10.md",
-    "02. 🏙️ Area/daily-note/2024-09/2024-10-11.md",
     "2024-09-13_3.38.32.png",
     "Pasted image 20241008100254.png",
     "fcm.png",
