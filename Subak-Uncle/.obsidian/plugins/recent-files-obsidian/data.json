@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "레디스 서버 살리는 명령어",
+      "path": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
+    },
+    {
+      "basename": "어드레감디 - Tasks",
+      "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
+    },
+    {
+      "basename": "Trouble Shooting - ByteBuddy",
+      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
+    },
+    {
+      "basename": "2024-10-16",
+      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-16.md"
+    },
+    {
       "basename": "테마 적용 tailwind 입력 정보",
       "path": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md"
     },
@@ -69,10 +85,6 @@
       "path": "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md"
     },
     {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
-    },
-    {
       "basename": "nginx 기본 주석내용",
       "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "wsl ip 확인",
       "path": "01. 🗓️ Project/RunningHi/wsl ip 확인.md"
-    },
-    {
-      "basename": "레디스 서버 살리는 명령어",
-      "path": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
     },
     {
       "basename": "2024-10-10",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-08-24",
       "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-24.md"
-    },
-    {
-      "basename": "2024-08-25",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-25.md"
-    },
-    {
-      "basename": "어드레감디 - Tasks",
-      "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
     }
   ],
   "omittedPaths": []
