@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-21",
+      "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-21.md"
+    },
+    {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "2024-09-13_3.38.32",
+      "path": "2024-09-13_3.38.32.png"
+    },
+    {
+      "basename": "fcm",
+      "path": "fcm.png"
+    },
+    {
+      "basename": "image",
+      "path": "image.png"
+    },
+    {
+      "basename": "image 1",
+      "path": "image 1.png"
+    },
+    {
+      "basename": "Note Rule",
+      "path": "Note Rule.md"
+    },
+    {
+      "basename": "Tasks-Canvas",
+      "path": "Tasks-Canvas.canvas"
+    },
+    {
+      "basename": "Untitled diagram-2024-08-28-162711",
+      "path": "Untitled diagram-2024-08-28-162711.png"
+    },
+    {
       "basename": "10월 3주차 업무 보고",
       "path": "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "대한민국 행정구영",
       "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "window-wsl2를 이용한 배포 설정",
@@ -125,18 +157,6 @@
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
     },
     {
-      "basename": "Note Rule",
-      "path": "Note Rule.md"
-    },
-    {
-      "basename": "fcm",
-      "path": "fcm.png"
-    },
-    {
-      "basename": "Tasks-Canvas",
-      "path": "Tasks-Canvas.canvas"
-    },
-    {
       "basename": "Git Secrets 설정",
       "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "2024-09-30(월)",
       "path": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md"
-    },
-    {
-      "basename": "2024-09-23",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-09-23.md"
-    },
-    {
-      "basename": "Untitled diagram-2024-08-28-162711",
-      "path": "Untitled diagram-2024-08-28-162711.png"
-    },
-    {
-      "basename": "2024-08-29",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-29.md"
-    },
-    {
-      "basename": "2024-08-26",
-      "path": "02. 🏙️ Area/daily-note/2024-08/2024-08-26.md"
     }
   ],
   "omittedPaths": []
