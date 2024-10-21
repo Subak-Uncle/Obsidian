@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "cb7b84bc3f599f2e",
@@ -216,6 +217,8 @@
   },
   "active": "4c056720fe13a318",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "02. 🏙️ Area/daily-note/2024-09/2024-10-21.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
     "2024-09-13_3.38.32.png",
     "fcm.png",
@@ -224,7 +227,6 @@
     "Note Rule.md",
     "Tasks-Canvas.canvas",
     "Untitled diagram-2024-08-28-162711.png",
-    "02. 🏙️ Area/daily-note/2024-09/2024-10-21.md",
     "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md",
     "05. 🖼️ images/Pasted image 20241017170722.png",
     "05. 🖼️ images/Pasted image 20241017170721.png",
@@ -249,7 +251,6 @@
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
     "02. 🏙️ Area/daily-note/2024-09/2024-10-14.md",
-    "무제 파일.canvas",
     "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
     "01. 🗓️ Project/RunningHi/Mermaid to png.md",
     "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",

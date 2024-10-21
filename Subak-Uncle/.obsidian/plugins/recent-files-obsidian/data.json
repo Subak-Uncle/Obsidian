@@ -5,6 +5,10 @@
       "path": "02. 🏙️ Area/daily-note/2024-09/2024-10-21.md"
     },
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.canvas"
+    },
+    {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Docker 명령어",
       "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
-    },
-    {
-      "basename": "2024-09-30(월)",
-      "path": "02. 🏙️ Area/daily-note/2024-09/2024-09-30(월).md"
     }
   ],
   "omittedPaths": []
