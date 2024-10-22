@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "git actions와 scp를 활용한 CICD",
+      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
+    },
+    {
+      "basename": "Submodule",
+      "path": "03. ⭐️ Resource/git/Submodule.md"
+    },
+    {
+      "basename": "Branch 관련",
+      "path": "03. ⭐️ Resource/git/Branch 관련.md"
+    },
+    {
+      "basename": "우분투 하드디스크 사용량 조회",
+      "path": "03. ⭐️ Resource/git/우분투 하드디스크 사용량 조회.md"
+    },
+    {
+      "basename": "닮은 연예인 찾기 웹 애플리케이션",
+      "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
+    },
+    {
+      "basename": "zustand",
+      "path": "03. ⭐️ Resource/Front/zustand.md"
+    },
+    {
       "basename": "2024-10-22",
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-22.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "ip 체크 방법",
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
-    },
-    {
-      "basename": "Git Secrets 설정",
-      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
-    },
-    {
-      "basename": "Today Tasks",
-      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
-    },
-    {
-      "basename": "DNS 설정 확인",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
-    },
-    {
-      "basename": "앱 배포 특강",
-      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
-    },
-    {
-      "basename": "정보 구조도",
-      "path": "01. 🗓️ Project/BootBox/story-board/정보 구조도.md"
-    },
-    {
-      "basename": "API 명세서",
-      "path": "01. 🗓️ Project/BootBox/xr-api/API 명세서.md"
     }
   ],
   "omittedPaths": []
