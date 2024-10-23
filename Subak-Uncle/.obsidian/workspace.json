@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git actions와 scp를 활용한 CICD"
+              "title": "공부해야 할 키워드 목록"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git actions와 scp를 활용한 CICD의 백링크"
+              "title": "공부해야 할 키워드 목록의 백링크"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "git actions와 scp를 활용한 CICD의 나가는 링크"
+              "title": "공부해야 할 키워드 목록의 나가는 링크"
             }
           },
           {
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
+                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
               },
               "icon": "lucide-list",
-              "title": "git actions와 scp를 활용한 CICD 개요"
+              "title": "공부해야 할 키워드 목록 개요"
             }
           }
         ]
@@ -217,6 +217,8 @@
   "active": "e4977be36b75416e",
   "lastOpenFiles": [
     "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+    "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
+    "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/git/Submodule.md",
     "03. ⭐️ Resource/CICD",
     "03. ⭐️ Resource/git/Branch 관련.md",
@@ -258,11 +260,9 @@
     "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/https.md",
     "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
-    "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",
     "codes",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu",
-    "03. ⭐️ Resource/Linux-macOS"
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu"
   ]
 }

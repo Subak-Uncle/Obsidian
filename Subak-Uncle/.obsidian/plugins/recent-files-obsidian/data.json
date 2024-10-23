@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "공부해야 할 키워드 목록",
+      "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
+    },
+    {
       "basename": "git actions와 scp를 활용한 CICD",
       "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MySQL connection lock",
       "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
-    },
-    {
-      "basename": "ip 체크 방법",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
     }
   ],
   "omittedPaths": []
