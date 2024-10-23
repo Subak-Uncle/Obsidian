@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ubuntu 시스템 로그 확인 방법",
+      "path": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md"
+    },
+    {
       "basename": "공부해야 할 키워드 목록",
       "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "Ubuntu 계정 및 권한 관리 가이드",
       "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
-    },
-    {
-      "basename": "ubuntu 시스템 로그 확인 방법",
-      "path": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md"
     },
     {
       "basename": "wsl ip 확인",

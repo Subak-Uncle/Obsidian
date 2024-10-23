@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
+                "file": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공부해야 할 키워드 목록"
+              "title": "ubuntu 시스템 로그 확인 방법"
             }
           }
         ]
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bg",
+                "query": "시간",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
+                "file": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "공부해야 할 키워드 목록의 백링크"
+              "title": "ubuntu 시스템 로그 확인 방법의 백링크"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
+                "file": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "공부해야 할 키워드 목록의 나가는 링크"
+              "title": "ubuntu 시스템 로그 확인 방법의 나가는 링크"
             }
           },
           {
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
+                "file": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md"
               },
               "icon": "lucide-list",
-              "title": "공부해야 할 키워드 목록 개요"
+              "title": "ubuntu 시스템 로그 확인 방법 개요"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "e4977be36b75416e",
   "lastOpenFiles": [
-    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
     "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
+    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
     "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/git/Submodule.md",
     "03. ⭐️ Resource/CICD",
