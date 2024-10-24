@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "file": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Tasks"
+              "title": "러닝하이 - Tasks"
             }
           }
         ]
@@ -185,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
+                "file": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
               },
               "icon": "lucide-list",
-              "title": "All Tasks 개요"
+              "title": "러닝하이 - Tasks 개요"
             }
           }
         ]
@@ -217,10 +217,26 @@
   },
   "active": "e4977be36b75416e",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
+    "01. 🗓️ Project/RunningHi/아키텍처.md",
+    "01. 🗓️ Project/RunningHi/알림 가이드.md",
+    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+    "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+    "01. 🗓️ Project/RunningHi/Mermaid to png.md",
+    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+    "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
+    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
+    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
+    "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+    "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-24.md",
     "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
     "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
-    "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
     "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
     "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/git/Submodule.md",
@@ -229,29 +245,14 @@
     "03. ⭐️ Resource/git/우분투 하드디스크 사용량 조회.md",
     "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md",
     "03. ⭐️ Resource/Front/zustand.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-22.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-26.md",
-    "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
-    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
-    "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
-    "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-07.md",
     "02. 🏙️ Area/daily-note/2024-10",
-    "01. 🗓️ Project/RunningHi/블로그 글/복합 키 이용 시 주의사항.md",
-    "01. 🗓️ Project/RunningHi/블로그 글/소개글.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "fcm.png",
-    "Note Rule.md",
     "Tasks-Canvas.canvas",
     "Untitled diagram-2024-08-28-162711.png",
     "05. 🖼️ images/image.png",
     "05. 🖼️ images/image 1.png",
-    "Untitled.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-21.md",
     "무제 파일.canvas",
     "2024-09-13_3.38.32.png",
-    "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md",
     "05. 🖼️ images/Pasted image 20241017170722.png",
     "05. 🖼️ images/Pasted image 20241017170721.png",
     "05. 🖼️ images/Pasted image 20241017170701.png",
@@ -259,7 +260,6 @@
     "05. 🖼️ images/Pasted image 20241017170515.png",
     "01. 🗓️ Project/RunningHi/블로그 글",
     "583F5109-C574-4177-8BE2-364A6E7CEBDB.heic",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-18.md",
     "01. 🗓️ Project/BootBox/work-report",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",
