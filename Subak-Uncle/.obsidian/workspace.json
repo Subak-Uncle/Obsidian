@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5350c260386407",
+        "id": "0b15db4628e4814c",
         "type": "tabs",
         "children": [
           {
-            "id": "75000c2fcd4aed81",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "05. 🖼️ images/Pasted image 20240921003610.png"
-              }
-            }
-          },
-          {
-            "id": "81ec40acb19b36ce",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "05. 🖼️ images/Pasted image 20241017170722.png"
-              }
-            }
-          },
-          {
-            "id": "9ff17c0805a74400",
+            "id": "e4977be36b75416e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/블로그 글/소개글.md",
+                "file": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "00469a2cc2493c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. 🗓️ Project/RunningHi/블로그 글/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-28"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +33,7 @@
       {
         "id": "289a37180fba0303",
         "type": "tabs",
-        "dimension": 73.81422924901186,
+        "dimension": 69.80146290491118,
         "children": [
           {
             "id": "cf4b47c855f84665",
@@ -73,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -81,7 +52,7 @@
       {
         "id": "1f67b8fbadd367e9",
         "type": "tabs",
-        "dimension": 26.18577075098814,
+        "dimension": 30.198537095088817,
         "children": [
           {
             "id": "e5515159cf4470a6",
@@ -89,13 +60,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fj",
+                "query": "시간",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -103,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -111,10 +86,13 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -136,7 +114,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -144,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -153,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/블로그 글/무제 파일.md",
+                "file": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "ubuntu 시스템 로그 확인 방법의 백링크"
             }
           },
           {
@@ -170,10 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/블로그 글/무제 파일.md",
+                "file": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "ubuntu 시스템 로그 확인 방법의 나가는 링크"
             }
           },
           {
@@ -181,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -197,8 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/블로그 글/무제 파일.md"
-              }
+                "file": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-10-28 개요"
             }
           }
         ]
@@ -225,54 +215,55 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "00469a2cc2493c63",
+  "active": "e4977be36b75416e",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "Pasted image 20241017170722.png",
-    "Pasted image 20241017170721.png",
-    "Pasted image 20241017170701.png",
-    "Pasted image 20241017170648.png",
-    "Pasted image 20241017170515.png",
-    "Pasted image 20241008100254.png",
-    "Pasted image 20240921003610.png",
-    "image 1.png",
-    "Users/kimjong-wan/workspace/Blog/TodayILearned/images/복합.md",
-    "01. 🗓️ Project/RunningHi/블로그 글/무제 파일.md",
-    "Users/kimjong-wan/workspace/Blog/TodayILearned/images",
-    "Users/kimjong-wan/workspace/Blog/TodayILearned",
-    "Users/kimjong-wan/workspace/Blog",
-    "Users/kimjong-wan/workspace",
-    "Users/kimjong-wan",
-    "Users",
-    "01. 🗓️ Project/RunningHi/블로그 글/소개글.md",
-    "image.png",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
-    "Untitled diagram-2024-08-28-162711.png",
-    "Tasks-Canvas.canvas",
-    "무제 폴더",
-    "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
-    "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
-    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
-    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
-    "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
-    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
-    "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
-    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
-    "01. 🗓️ Project/RunningHi/알림 가이드.md",
-    "01. 🗓️ Project/RunningHi/아키텍처.md",
-    "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
+    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
+    "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
-    "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
-    "01. 🗓️ Project/RunningHi/0824 - nginx 에러 Trouble Shooting.md",
-    "Users/kimjong-wan/workspace/Blog/TodayILearned/images/기획과.md",
-    "Note Rule.md",
-    "03. ⭐️ Resource/GitHub/WorkFlow-Template.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
+    "01. 🗓️ Project/RunningHi/아키텍처.md",
+    "01. 🗓️ Project/RunningHi/알림 가이드.md",
+    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+    "01. 🗓️ Project/RunningHi/Git Secrets 내용.md",
+    "01. 🗓️ Project/RunningHi/Mermaid to png.md",
+    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+    "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md",
+    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
+    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
+    "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+    "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "02. 🏙️ Area/daily-note/2024-10/2024-10-24.md",
+    "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
+    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+    "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
+    "02. 🏙️ Area/keywords",
+    "03. ⭐️ Resource/git/Submodule.md",
+    "03. ⭐️ Resource/CICD",
+    "03. ⭐️ Resource/git/Branch 관련.md",
+    "02. 🏙️ Area/daily-note/2024-10",
+    "fcm.png",
+    "Tasks-Canvas.canvas",
+    "Untitled diagram-2024-08-28-162711.png",
+    "05. 🖼️ images/image.png",
+    "05. 🖼️ images/image 1.png",
+    "무제 파일.canvas",
+    "2024-09-13_3.38.32.png",
+    "05. 🖼️ images/Pasted image 20241017170722.png",
+    "05. 🖼️ images/Pasted image 20241017170721.png",
+    "05. 🖼️ images/Pasted image 20241017170701.png",
+    "05. 🖼️ images/Pasted image 20241017170648.png",
+    "05. 🖼️ images/Pasted image 20241017170515.png",
     "01. 🗓️ Project/RunningHi/블로그 글",
-    "03. ⭐️ Resource/GitHub/Disscussion.md",
-    "02. 🏙️ Area/daily-note/2024-09/2024-10-18.md",
     "583F5109-C574-4177-8BE2-364A6E7CEBDB.heic",
-    "02. 🏙️ Area/daily-note/2024-09/2024-10-16.md",
-    "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md",
-    "01. 🗓️ Project/BootBox/work-report"
+    "01. 🗓️ Project/BootBox/work-report",
+    "02. 🏙️ Area/daily-note/2024-09",
+    "03. ⭐️ Resource/DataBase",
+    "codes",
+    "03. ⭐️ Resource/Linux-macOS/Ubuntu"
   ]
 }
