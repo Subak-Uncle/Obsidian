@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
+                "file": "03. ⭐️ Resource/Python/환경 세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-28"
+              "title": "환경 세팅"
             }
           }
         ]
@@ -185,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md"
+                "file": "03. ⭐️ Resource/Python/환경 세팅.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-28 개요"
+              "title": "환경 세팅 개요"
             }
           }
         ]
@@ -217,8 +217,20 @@
   },
   "active": "e4977be36b75416e",
   "lastOpenFiles": [
-    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
+    "05. 🖼️ images/Pasted image 20241017170701.png",
+    "2024-09-13_3.38.32.png",
+    "fcm.png",
+    "무제 파일.canvas",
+    "Note Rule.md",
+    "Tasks-Canvas.canvas",
+    "Untitled diagram-2024-08-28-162711.png",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
+    "03. ⭐️ Resource/Python/환경 세팅.md",
+    "03. ⭐️ Resource/Python",
+    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
+    "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
+    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md",
     "01. 🗓️ Project/RunningHi/아키텍처.md",
@@ -236,26 +248,14 @@
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-24.md",
-    "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
-    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
-    "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md",
     "02. 🏙️ Area/keywords",
-    "03. ⭐️ Resource/git/Submodule.md",
     "03. ⭐️ Resource/CICD",
-    "03. ⭐️ Resource/git/Branch 관련.md",
     "02. 🏙️ Area/daily-note/2024-10",
-    "fcm.png",
-    "Tasks-Canvas.canvas",
-    "Untitled diagram-2024-08-28-162711.png",
     "05. 🖼️ images/image.png",
     "05. 🖼️ images/image 1.png",
-    "무제 파일.canvas",
-    "2024-09-13_3.38.32.png",
     "05. 🖼️ images/Pasted image 20241017170722.png",
     "05. 🖼️ images/Pasted image 20241017170721.png",
-    "05. 🖼️ images/Pasted image 20241017170701.png",
     "05. 🖼️ images/Pasted image 20241017170648.png",
     "05. 🖼️ images/Pasted image 20241017170515.png",
     "01. 🗓️ Project/RunningHi/블로그 글",
@@ -263,7 +263,6 @@
     "01. 🗓️ Project/BootBox/work-report",
     "02. 🏙️ Area/daily-note/2024-09",
     "03. ⭐️ Resource/DataBase",
-    "codes",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu"
+    "codes"
   ]
 }
