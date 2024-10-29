@@ -2,15 +2,20 @@
 - https://www.newsnjob.com/news/articleView.html?idxno=26258
 
 
--  월별 리스트 조회 : 
-상세보기 : https://jasoseol.com/employment/get.json
+-  월별 리스트 조회 : https://jasoseol.com/employment/calendar_list.json
+```json
+{
+    "start_time": "2024-09-01T00:00:00.000Z", 
+    "end_time": "2024-10-31T23:59:59.000Z"
+}
+```
+- 상세보기 : https://jasoseol.com/employment/get.json
 ```json
 {
 "employment_company_id": 95067
 }	
 ```
-
-https://jasoseol.com/api/v1/employment_companies/95315
+- https://jasoseol.com/api/v1/employment_companies/95315
 
 
 ```json
