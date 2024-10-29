@@ -5,16 +5,24 @@
       "path": "02. 🏙️ Area/AI_키워드 분석.md"
     },
     {
-      "basename": "AI 키워드 분석",
-      "path": "02. 🏙️ Area/AI 키워드 분석.md"
+      "basename": "Today Tasks",
+      "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
     },
     {
-      "basename": "git actions와 scp를 활용한 CICD",
-      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
+      "basename": "2024-10-29",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md"
+    },
+    {
+      "basename": "2024-10-30",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-30.md"
     },
     {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
+      "basename": "git actions와 scp를 활용한 CICD",
+      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
     },
     {
       "basename": "2024-10-28",
@@ -187,18 +195,6 @@
     {
       "basename": "소개글",
       "path": "01. 🗓️ Project/RunningHi/블로그 글/소개글.md"
-    },
-    {
-      "basename": "image",
-      "path": "05. 🖼️ images/image.png"
-    },
-    {
-      "basename": "image 1",
-      "path": "05. 🖼️ images/image 1.png"
-    },
-    {
-      "basename": "2024-10-21",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-21.md"
     }
   ],
   "omittedPaths": []
