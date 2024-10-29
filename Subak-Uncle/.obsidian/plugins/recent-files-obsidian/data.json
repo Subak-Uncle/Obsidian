@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-29",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md"
+      "basename": "git actions와 scp를 활용한 CICD",
+      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
+    },
+    {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "2024-10-28",
@@ -35,10 +39,6 @@
     {
       "basename": "Untitled diagram-2024-08-28-162711",
       "path": "Untitled diagram-2024-08-28-162711.png"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "BootBox  - Tasks",
@@ -129,10 +129,6 @@
       "path": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
     },
     {
-      "basename": "git actions와 scp를 활용한 CICD",
-      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
-    },
-    {
       "basename": "공부해야 할 키워드 목록",
       "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
     },
@@ -199,6 +195,10 @@
     {
       "basename": "10월 3주차 업무 보고",
       "path": "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md"
+    },
+    {
+      "basename": "어드레감디 - Tasks",
+      "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
     }
   ],
   "omittedPaths": []

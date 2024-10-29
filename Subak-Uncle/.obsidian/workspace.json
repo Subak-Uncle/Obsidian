@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b15db4628e4814c",
+        "id": "6026cc004863ffba",
         "type": "tabs",
         "children": [
           {
-            "id": "e4977be36b75416e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-28"
-            }
-          },
-          {
-            "id": "22f1ddac575ae689",
+            "id": "c61dde4195d1b24b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "2024-10-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,8 +46,19 @@
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
             }
+          },
+          {
+            "id": "17bf0028dc2231a2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f67b8fbadd367e9",
@@ -140,8 +136,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -188,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "fb4e1acf0e451ced",
@@ -224,15 +220,15 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-custom-frames:Open Todoist": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "22f1ddac575ae689",
+  "active": "17bf0028dc2231a2",
   "lastOpenFiles": [
+    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
+    "02. 🏙️ Area/daily-note/2024-10/2024-10-30.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md",
     "03. ⭐️ Resource/Python/환경 세팅.md",
     "05. 🖼️ images/Pasted image 20241017170701.png",
@@ -242,7 +238,6 @@
     "Note Rule.md",
     "Tasks-Canvas.canvas",
     "Untitled diagram-2024-08-28-162711.png",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "03. ⭐️ Resource/Python",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
@@ -263,8 +258,6 @@
     "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md",
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-24.md",
     "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/CICD",
     "02. 🏙️ Area/daily-note/2024-10",
