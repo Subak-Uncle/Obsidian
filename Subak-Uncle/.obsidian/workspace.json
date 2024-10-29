@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6026cc004863ffba",
+        "id": "0b15db4628e4814c",
         "type": "tabs",
         "children": [
           {
-            "id": "c61dde4195d1b24b",
+            "id": "e4977be36b75416e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md",
+                "file": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "안드로이드 공고 글"
+              "title": "2024-10-28"
+            }
+          },
+          {
+            "id": "22f1ddac575ae689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,16 +60,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
-            }
-          },
-          {
-            "id": "17bf0028dc2231a2",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
@@ -135,8 +140,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -183,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "fb4e1acf0e451ced",
@@ -195,10 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md"
+                "file": "02. 🏙️ Area/Tasks/All Tasks.md"
               },
               "icon": "lucide-list",
-              "title": "안드로이드 공고 글 개요"
+              "title": "All Tasks 개요"
             }
           }
         ]
@@ -225,23 +230,20 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "c61dde4195d1b24b",
+  "active": "22f1ddac575ae689",
   "lastOpenFiles": [
-    "02. 🏙️ Area/AI_키워드 분석.md",
-    "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md",
-    "02. 🏙️ Area/AI 키워드 분석.md",
     "images/Pasted image 20241029192430.png",
-    "02. 🏙️ Area/Tasks/Today Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-30.md",
-    "02. 🏙️ Area/Tasks/All Tasks.md",
     "images/Pasted image 20241029165142.png",
     "images/Pasted image 20241029165109.png",
     "images/Pasted image 20241029165030.png",
     "images/Pasted image 20241029164958.png",
     "images/Pasted image 20241029164919.png",
     "images",
-    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
+    "02. 🏙️ Area/AI_키워드 분석.md",
+    "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md",
+    "06. 📝 templates/todo.md",
+    "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md",
+    "02. 🏙️ Area/daily-note/2024-10/2024-10-30.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md",
     "03. ⭐️ Resource/Python/환경 세팅.md",
     "05. 🖼️ images/Pasted image 20241017170701.png",
@@ -251,6 +253,7 @@
     "Note Rule.md",
     "Tasks-Canvas.canvas",
     "Untitled diagram-2024-08-28-162711.png",
+    "02. 🏙️ Area/Tasks/All Tasks.md",
     "03. ⭐️ Resource/Python",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
@@ -267,9 +270,11 @@
     "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
     "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
     "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/CICD",
     "02. 🏙️ Area/daily-note/2024-10",
+    "05. 🖼️ images/image.png",
     "01. 🗓️ Project/RunningHi/블로그 글",
     "583F5109-C574-4177-8BE2-364A6E7CEBDB.heic",
     "01. 🗓️ Project/BootBox/work-report",
