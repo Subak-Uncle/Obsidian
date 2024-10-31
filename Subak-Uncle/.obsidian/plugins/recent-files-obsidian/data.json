@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-31",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
+    },
+    {
       "basename": "안드로이드 공고 글",
       "path": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "복합 키 이용 시 주의사항",
       "path": "01. 🗓️ Project/RunningHi/블로그 글/복합 키 이용 시 주의사항.md"
-    },
-    {
-      "basename": "소개글",
-      "path": "01. 🗓️ Project/RunningHi/블로그 글/소개글.md"
     }
   ],
   "omittedPaths": []
