@@ -281,7 +281,7 @@ sudo visudo
 **예시:**
 
 ```plaintext
-cicd ALL=(ALL) NOPASSWD: ALL
+cicd ALL=(ALL) NOPASSWD: ALL 
 ```
 
 ### sudoers 파일을 통한 권한 부여
