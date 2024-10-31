@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "window-wsl2를 이용한 배포 설정"
+              "title": "Ubuntu 계정 및 권한 관리 가이드"
             }
           }
         ]
@@ -195,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md"
+                "file": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
               },
               "icon": "lucide-list",
-              "title": "window-wsl2를 이용한 배포 설정 개요"
+              "title": "Ubuntu 계정 및 권한 관리 가이드 개요"
             }
           }
         ]
@@ -227,6 +227,8 @@
   },
   "active": "19b174ff50fed389",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
     "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
     "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
     "03. ⭐️ Resource/Git/Branch 관련.md",
@@ -265,8 +267,6 @@
     "Tasks-Canvas.canvas",
     "Untitled diagram-2024-08-28-162711.png",
     "03. ⭐️ Resource/Python",
-    "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
-    "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
     "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/CICD",
     "02. 🏙️ Area/daily-note/2024-10",
