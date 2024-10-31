@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "git actions와 scp를 활용한 CICD",
+      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
+    },
+    {
+      "basename": "Branch 관련",
+      "path": "03. ⭐️ Resource/Git/Branch 관련.md"
+    },
+    {
+      "basename": "Submodule",
+      "path": "03. ⭐️ Resource/Git/Submodule.md"
+    },
+    {
+      "basename": "Label-Template",
+      "path": "03. ⭐️ Resource/GitHub/Label-Template.md"
+    },
+    {
+      "basename": "Pull-Request-Template",
+      "path": "03. ⭐️ Resource/GitHub/Pull-Request-Template.md"
+    },
+    {
+      "basename": "WorkFlow-Template",
+      "path": "03. ⭐️ Resource/GitHub/WorkFlow-Template.md"
+    },
+    {
+      "basename": "앱 배포 특강",
+      "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
+    },
+    {
+      "basename": "어드레감디 - Tasks",
+      "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
+    },
+    {
+      "basename": "Git Secrets 설정",
+      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
+    },
+    {
+      "basename": "공부해야 할 키워드 목록",
+      "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
+    },
+    {
+      "basename": "Docker 명령어",
+      "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
+    },
+    {
+      "basename": "환경 세팅",
+      "path": "03. ⭐️ Resource/Python/환경 세팅.md"
+    },
+    {
+      "basename": "AI_키워드 분석",
+      "path": "02. 🏙️ Area/AI_키워드 분석.md"
+    },
+    {
       "basename": "2024-10-31",
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
     },
@@ -17,10 +69,6 @@
       "path": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md"
     },
     {
-      "basename": "AI_키워드 분석",
-      "path": "02. 🏙️ Area/AI_키워드 분석.md"
-    },
-    {
       "basename": "Today Tasks",
       "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
     },
@@ -29,16 +77,8 @@
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
-      "basename": "git actions와 scp를 활용한 CICD",
-      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
-    },
-    {
       "basename": "2024-10-28",
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-28.md"
-    },
-    {
-      "basename": "환경 세팅",
-      "path": "03. ⭐️ Resource/Python/환경 세팅.md"
     },
     {
       "basename": "Pasted image 20241017170701",
@@ -153,48 +193,12 @@
       "path": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
     },
     {
-      "basename": "공부해야 할 키워드 목록",
-      "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
-    },
-    {
-      "basename": "Submodule",
-      "path": "03. ⭐️ Resource/git/Submodule.md"
-    },
-    {
-      "basename": "Branch 관련",
-      "path": "03. ⭐️ Resource/git/Branch 관련.md"
-    },
-    {
       "basename": "우분투 하드디스크 사용량 조회",
-      "path": "03. ⭐️ Resource/git/우분투 하드디스크 사용량 조회.md"
+      "path": "03. ⭐️ Resource/Git/우분투 하드디스크 사용량 조회.md"
     },
     {
       "basename": "닮은 연예인 찾기 웹 애플리케이션",
       "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
-    },
-    {
-      "basename": "zustand",
-      "path": "03. ⭐️ Resource/Front/zustand.md"
-    },
-    {
-      "basename": "2024-10-22",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-22.md"
-    },
-    {
-      "basename": "2024-10-26",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-26.md"
-    },
-    {
-      "basename": "대한민국 행정구영",
-      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
-    },
-    {
-      "basename": "MySQL 계정 생성",
-      "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
-    },
-    {
-      "basename": "2024-10-07",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-07.md"
     }
   ],
   "omittedPaths": []
