@@ -5,6 +5,14 @@
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
     },
     {
+      "basename": "2024-10-30",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-30.md"
+    },
+    {
+      "basename": "2024-10-29",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md"
+    },
+    {
       "basename": "안드로이드 공고 글",
       "path": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "Today Tasks",
       "path": "02. 🏙️ Area/Tasks/Today Tasks.md"
-    },
-    {
-      "basename": "2024-10-29",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md"
-    },
-    {
-      "basename": "2024-10-30",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-30.md"
     },
     {
       "basename": "All Tasks",
@@ -195,10 +195,6 @@
     {
       "basename": "2024-10-07",
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-07.md"
-    },
-    {
-      "basename": "복합 키 이용 시 주의사항",
-      "path": "01. 🗓️ Project/RunningHi/블로그 글/복합 키 이용 시 주의사항.md"
     }
   ],
   "omittedPaths": []
