@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6026cc004863ffba",
+        "id": "c464f1b813c219ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c61dde4195d1b24b",
+            "id": "19b174ff50fed389",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "안드로이드 공고 글"
+              "title": "새 탭"
             }
           }
         ]
@@ -194,11 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "안드로이드 공고 글 개요"
+              "title": "개요"
             }
           }
         ]
@@ -225,10 +219,10 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "c61dde4195d1b24b",
+  "active": "19b174ff50fed389",
   "lastOpenFiles": [
-    "02. 🏙️ Area/AI_키워드 분석.md",
     "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md",
+    "02. 🏙️ Area/AI_키워드 분석.md",
     "02. 🏙️ Area/AI 키워드 분석.md",
     "images/Pasted image 20241029192430.png",
     "02. 🏙️ Area/Tasks/Today Tasks.md",
