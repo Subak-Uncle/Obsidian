@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "Ubuntu 계정 및 권한 관리 가이드",
+      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
+    },
+    {
+      "basename": "Docker 명령어",
+      "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
+    },
+    {
+      "basename": "git actions와 scp를 활용한 CICD",
+      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
+    },
+    {
+      "basename": "닮은 연예인 찾기 웹 애플리케이션",
+      "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
+    },
+    {
+      "basename": "우분투 하드디스크 사용량 조회",
+      "path": "03. ⭐️ Resource/Git/우분투 하드디스크 사용량 조회.md"
+    },
+    {
+      "basename": "AI_키워드 분석",
+      "path": "02. 🏙️ Area/AI_키워드 분석.md"
+    },
+    {
+      "basename": "AnuPpuccin",
+      "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
+    },
+    {
+      "basename": "MySQL 계정 생성",
+      "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
+    },
+    {
+      "basename": "zustand",
+      "path": "03. ⭐️ Resource/Front/zustand.md"
+    },
+    {
+      "basename": "Submodule",
+      "path": "03. ⭐️ Resource/Git/Submodule.md"
+    },
+    {
+      "basename": "Branch 관련",
+      "path": "03. ⭐️ Resource/Git/Branch 관련.md"
+    },
+    {
+      "basename": "커밋 혹은 변경사항 롤백",
+      "path": "03. ⭐️ Resource/Git/커밋 혹은 변경사항 롤백.md"
+    },
+    {
+      "basename": "Label-Template",
+      "path": "03. ⭐️ Resource/GitHub/Label-Template.md"
+    },
+    {
+      "basename": "WorkFlow-Template",
+      "path": "03. ⭐️ Resource/GitHub/WorkFlow-Template.md"
+    },
+    {
+      "basename": "Pull-Request-Template",
+      "path": "03. ⭐️ Resource/GitHub/Pull-Request-Template.md"
+    },
+    {
+      "basename": "방화벽 설정 명령어",
+      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
+    },
+    {
+      "basename": "10월 3주차 업무 보고",
+      "path": "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md"
+    },
+    {
+      "basename": "BootBox  - Tasks",
+      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
+    },
+    {
+      "basename": "Git Secrets 설정",
+      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
+    },
+    {
+      "basename": "마크다운 글자색",
+      "path": "03. ⭐️ Resource/Information/마크다운 글자색.md"
+    },
+    {
+      "basename": "유용한 사이트 모음",
+      "path": "03. ⭐️ Resource/Information/유용한 사이트 모음.md"
+    },
+    {
+      "basename": "공부해야 할 키워드 목록",
+      "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
+    },
+    {
       "basename": "2024-10-31",
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
     },
@@ -17,10 +105,6 @@
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
-      "basename": "Ubuntu 계정 및 권한 관리 가이드",
-      "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
-    },
-    {
       "basename": "ubuntu 시스템 로그 확인 방법",
       "path": "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md"
     },
@@ -33,30 +117,6 @@
       "path": "01. 🗓️ Project/RunningHi/wsl ip 확인.md"
     },
     {
-      "basename": "git actions와 scp를 활용한 CICD",
-      "path": "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md"
-    },
-    {
-      "basename": "Branch 관련",
-      "path": "03. ⭐️ Resource/Git/Branch 관련.md"
-    },
-    {
-      "basename": "Submodule",
-      "path": "03. ⭐️ Resource/Git/Submodule.md"
-    },
-    {
-      "basename": "Label-Template",
-      "path": "03. ⭐️ Resource/GitHub/Label-Template.md"
-    },
-    {
-      "basename": "Pull-Request-Template",
-      "path": "03. ⭐️ Resource/GitHub/Pull-Request-Template.md"
-    },
-    {
-      "basename": "WorkFlow-Template",
-      "path": "03. ⭐️ Resource/GitHub/WorkFlow-Template.md"
-    },
-    {
       "basename": "앱 배포 특강",
       "path": "01. 🗓️ Project/Adregamdi/앱 배포 특강.md"
     },
@@ -65,24 +125,8 @@
       "path": "01. 🗓️ Project/Adregamdi/어드레감디 - Tasks.md"
     },
     {
-      "basename": "Git Secrets 설정",
-      "path": "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md"
-    },
-    {
-      "basename": "공부해야 할 키워드 목록",
-      "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
-    },
-    {
-      "basename": "Docker 명령어",
-      "path": "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md"
-    },
-    {
       "basename": "환경 세팅",
       "path": "03. ⭐️ Resource/Python/환경 세팅.md"
-    },
-    {
-      "basename": "AI_키워드 분석",
-      "path": "02. 🏙️ Area/AI_키워드 분석.md"
     },
     {
       "basename": "안드로이드 공고 글",
@@ -121,10 +165,6 @@
       "path": "Untitled diagram-2024-08-28-162711.png"
     },
     {
-      "basename": "BootBox  - Tasks",
-      "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
-    },
-    {
       "basename": "테마 적용 tailwind 입력 정보",
       "path": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Mermaid to png",
       "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
-    },
-    {
-      "basename": "MySQL connection lock",
-      "path": "01. 🗓️ Project/RunningHi/MySQL connection lock.md"
-    },
-    {
-      "basename": "nginx 기본 주석내용",
-      "path": "01. 🗓️ Project/RunningHi/nginx 기본 주석내용.md"
-    },
-    {
-      "basename": "Trouble Shooting - ByteBuddy",
-      "path": "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md"
-    },
-    {
-      "basename": "ip 체크 방법",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/ip 체크 방법.md"
-    },
-    {
-      "basename": "DNS 설정 확인",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/DNS 설정 확인.md"
-    },
-    {
-      "basename": "방화벽 설정 명령어",
-      "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
-    },
-    {
-      "basename": "2024-10-24",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-24.md"
-    },
-    {
-      "basename": "레디스 서버 살리는 명령어",
-      "path": "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md"
-    },
-    {
-      "basename": "우분투 하드디스크 사용량 조회",
-      "path": "03. ⭐️ Resource/Git/우분투 하드디스크 사용량 조회.md"
-    },
-    {
-      "basename": "닮은 연예인 찾기 웹 애플리케이션",
-      "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
     }
   ],
   "omittedPaths": []
