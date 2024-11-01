@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "10",
-      "path": "01. 🗓️ Project/BootBox/work-report/10.md"
+      "basename": "10월 5주차 업무 보고",
+      "path": "01. 🗓️ Project/BootBox/work-report/10월 5주차 업무 보고.md"
+    },
+    {
+      "basename": "메타 데이터",
+      "path": "06. 📝 templates/메타 데이터.md"
     },
     {
       "basename": "10월 3주차 업무 보고",
       "path": "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md"
     },
     {
-      "basename": "대한민국 행정구영",
-      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
+      "basename": "주간 업무 일지 양식",
+      "path": "06. 📝 templates/주간 업무 일지 양식.md"
     },
     {
-      "basename": "주간 업무 일지 양식",
-      "path": "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md"
+      "basename": "대한민국 행정구영",
+      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
     },
     {
       "basename": "2024-11-02",
@@ -195,10 +199,6 @@
     {
       "basename": "아키텍처",
       "path": "01. 🗓️ Project/RunningHi/아키텍처.md"
-    },
-    {
-      "basename": "알림 가이드",
-      "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
     }
   ],
   "omittedPaths": []

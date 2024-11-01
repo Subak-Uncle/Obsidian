@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c464f1b813c219ad",
+        "id": "8b8b47bba7ee2423",
         "type": "tabs",
         "children": [
           {
-            "id": "19b174ff50fed389",
+            "id": "43571c5bf6254bd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/work-report/10.md",
+                "file": "01. 🗓️ Project/BootBox/work-report/10월 5주차 업무 보고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10"
+              "title": "10월 5주차 업무 보고"
             }
           }
         ]
@@ -195,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/BootBox/work-report/10.md"
+                "file": "01. 🗓️ Project/BootBox/work-report/10월 5주차 업무 보고.md"
               },
               "icon": "lucide-list",
-              "title": "10 개요"
+              "title": "10월 5주차 업무 보고 개요"
             }
           }
         ]
@@ -225,12 +225,13 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "19b174ff50fed389",
+  "active": "43571c5bf6254bd4",
   "lastOpenFiles": [
+    "06. 📝 templates/메타 데이터.md",
+    "01. 🗓️ Project/BootBox/work-report/10월 5주차 업무 보고.md",
     "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md",
-    "01. 🗓️ Project/BootBox/work-report/10.md",
+    "06. 📝 templates/주간 업무 일지 양식.md",
     "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
-    "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-11-02.md",
     "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
@@ -252,7 +253,6 @@
     "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
     "01. 🗓️ Project/BootBox/BootBox  - Tasks.md",
     "01. 🗓️ Project/Adregamdi/Git Secrets 설정.md",
-    "03. ⭐️ Resource/Information/마크다운 글자색.md",
     "images/Pasted image 20241029192430.png",
     "images/Pasted image 20241029165142.png",
     "images/Pasted image 20241029165109.png",
