@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+    },
+    {
       "basename": "Ubuntu 계정 및 권한 관리 가이드",
       "path": "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "2024-10-29",
       "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-29.md"
-    },
-    {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "ubuntu 시스템 로그 확인 방법",
