@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "10",
+      "path": "01. 🗓️ Project/BootBox/work-report/10.md"
+    },
+    {
+      "basename": "10월 3주차 업무 보고",
+      "path": "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md"
+    },
+    {
+      "basename": "대한민국 행정구영",
+      "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
+    },
+    {
+      "basename": "주간 업무 일지 양식",
+      "path": "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md"
+    },
+    {
+      "basename": "2024-11-02",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-11-02.md"
+    },
+    {
+      "basename": "2024-10-31",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
+    },
+    {
       "basename": "All Tasks",
       "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
@@ -69,10 +93,6 @@
       "path": "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md"
     },
     {
-      "basename": "10월 3주차 업무 보고",
-      "path": "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md"
-    },
-    {
       "basename": "BootBox  - Tasks",
       "path": "01. 🗓️ Project/BootBox/BootBox  - Tasks.md"
     },
@@ -91,10 +111,6 @@
     {
       "basename": "공부해야 할 키워드 목록",
       "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
-    },
-    {
-      "basename": "2024-10-31",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
     },
     {
       "basename": "2024-10-30",
@@ -169,10 +185,6 @@
       "path": "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md"
     },
     {
-      "basename": "주간 업무 일지 양식",
-      "path": "01. 🗓️ Project/BootBox/주간 업무 일지 양식.md"
-    },
-    {
       "basename": "러닝하이 - Tasks",
       "path": "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "알림 가이드",
       "path": "01. 🗓️ Project/RunningHi/알림 가이드.md"
-    },
-    {
-      "basename": "FCM 알림 발송 정리",
-      "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
-    },
-    {
-      "basename": "Git Secrets 내용",
-      "path": "01. 🗓️ Project/RunningHi/Git Secrets 내용.md"
-    },
-    {
-      "basename": "Mermaid to png",
-      "path": "01. 🗓️ Project/RunningHi/Mermaid to png.md"
     }
   ],
   "omittedPaths": []
