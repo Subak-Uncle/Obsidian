@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-11-02",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-11-02.md"
+      "basename": "2024-11-04",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md"
+    },
+    {
+      "basename": "All Tasks",
+      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
     },
     {
       "basename": "10월 5주차 업무 보고",
@@ -25,12 +29,12 @@
       "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
     },
     {
-      "basename": "2024-10-31",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
+      "basename": "2024-11-02",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-11-02.md"
     },
     {
-      "basename": "All Tasks",
-      "path": "02. 🏙️ Area/Tasks/All Tasks.md"
+      "basename": "2024-10-31",
+      "path": "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md"
     },
     {
       "basename": "Ubuntu 계정 및 권한 관리 가이드",
@@ -195,10 +199,6 @@
     {
       "basename": "러닝하이 백엔드 컨벤션",
       "path": "01. 🗓️ Project/RunningHi/러닝하이 백엔드 컨벤션.md"
-    },
-    {
-      "basename": "아키텍처",
-      "path": "01. 🗓️ Project/RunningHi/아키텍처.md"
     }
   ],
   "omittedPaths": []
