@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md",
+                "file": "01. 🗓️ Project/RunningHi/알림 종류.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-04"
+              "title": "알림 종류"
             }
           }
         ]
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "시간",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +111,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,17 +204,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md"
+                "file": "01. 🗓️ Project/RunningHi/알림 종류.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-04 개요"
+              "title": "알림 종류 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,55 +235,55 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "cf4b47c855f84665",
+  "active": "43571c5bf6254bd4",
   "lastOpenFiles": [
+    "01. 🗓️ Project/RunningHi/아키텍처.md",
+    "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
+    "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
+    "01. 🗓️ Project/RunningHi/wsl ip 확인.md",
+    "01. 🗓️ Project/RunningHi/window-wsl2를 이용한 배포 설정.md",
+    "01. 🗓️ Project/RunningHi/ubuntu 시스템 로그 확인 방법.md",
+    "01. 🗓️ Project/RunningHi/Trouble Shooting - ByteBuddy.md",
+    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
+    "01. 🗓️ Project/RunningHi/MySQL connection lock.md",
+    "01. 🗓️ Project/RunningHi/알림 가이드.md",
+    "01. 🗓️ Project/BootBox/테마 적용 tailwind 입력 정보.md",
+    "03. ⭐️ Resource/Nginx/0824 - nginx 에러 Trouble Shooting.md",
+    "01. 🗓️ Project/RunningHi/project/Git Secrets 내용.md",
+    "01. 🗓️ Project/RunningHi/project/러닝하이 백엔드 컨벤션.md",
+    "01. 🗓️ Project/RunningHi/project",
+    "01. 🗓️ Project/RunningHi/안드로이드 공고 글.md",
+    "01. 🗓️ Project/RunningHi/알림 종류.md",
+    "images/Pasted image 20241029164919.png",
+    "02. 🏙️ Area/daily-note/2024-11",
+    "images/Pasted image 20241029164958.png",
+    "images/Pasted image 20241029165109.png",
+    "images/Pasted image 20241029165030.png",
+    "images/Pasted image 20241029165142.png",
+    "images/Pasted image 20241029192430.png",
+    "06. 📝 templates/주간 업무 일지 양식.md",
+    "06. 📝 templates/todo.md",
+    "fcm.png",
+    "Note Rule.md",
+    "2024-09-13_3.38.32.png",
+    "Untitled diagram-2024-08-28-162711.png",
+    "Tasks-Canvas.canvas",
+    "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
+    "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md",
+    "03. ⭐️ Resource/ETC",
+    "03. ⭐️ Resource/Nginx",
     "01. 🗓️ Project/BootBox/work-report/from 11-04 to 11-08.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md",
     "01. 🗓️ Project/BootBox/work-report/10월 5주차 업무 보고.md",
     "06. 📝 templates/메타 데이터.md",
     "01. 🗓️ Project/BootBox/work-report/10월 3주차 업무 보고.md",
-    "06. 📝 templates/주간 업무 일지 양식.md",
-    "01. 🗓️ Project/BootBox/대한민국 행정구영.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-11-02.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-10-31.md",
-    "01. 🗓️ Project/RunningHi/Ubuntu 계정 및 권한 관리 가이드.md",
-    "03. ⭐️ Resource/About-Obsidian/Docker 명령어.md",
-    "03. ⭐️ Resource/CICD/git actions와 scp를 활용한 CICD.md",
-    "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md",
-    "03. ⭐️ Resource/Git/우분투 하드디스크 사용량 조회.md",
-    "02. 🏙️ Area/AI_키워드 분석.md",
-    "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md",
-    "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md",
-    "03. ⭐️ Resource/Front/zustand.md",
-    "03. ⭐️ Resource/Git/Submodule.md",
-    "03. ⭐️ Resource/Git/Branch 관련.md",
-    "03. ⭐️ Resource/Git/커밋 혹은 변경사항 롤백.md",
-    "03. ⭐️ Resource/GitHub/Label-Template.md",
-    "03. ⭐️ Resource/GitHub/WorkFlow-Template.md",
-    "03. ⭐️ Resource/GitHub/Pull-Request-Template.md",
-    "03. ⭐️ Resource/Linux-macOS/Ubuntu/방화벽 설정 명령어.md",
-    "images/Pasted image 20241029192430.png",
-    "images/Pasted image 20241029165142.png",
-    "images/Pasted image 20241029165109.png",
-    "images/Pasted image 20241029165030.png",
-    "images/Pasted image 20241029164958.png",
-    "images/Pasted image 20241029164919.png",
     "images",
     "05. 🖼️ images/Pasted image 20241017170701.png",
-    "2024-09-13_3.38.32.png",
-    "fcm.png",
     "무제 파일.canvas",
-    "Tasks-Canvas.canvas",
-    "Untitled diagram-2024-08-28-162711.png",
     "03. ⭐️ Resource/Python",
     "02. 🏙️ Area/keywords",
     "03. ⭐️ Resource/CICD",
     "02. 🏙️ Area/daily-note/2024-10",
-    "01. 🗓️ Project/RunningHi/블로그 글",
-    "583F5109-C574-4177-8BE2-364A6E7CEBDB.heic",
-    "01. 🗓️ Project/BootBox/work-report",
-    "02. 🏙️ Area/daily-note/2024-09",
-    "03. ⭐️ Resource/DataBase"
+    "01. 🗓️ Project/RunningHi/블로그 글"
   ]
 }
