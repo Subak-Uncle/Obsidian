@@ -53,6 +53,16 @@
             "state": {
               "type": "recent-files",
               "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
+            }
+          },
+          {
+            "id": "1343930b96c97bf5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
               "icon": "clock",
               "title": "Recent Files"
             }
@@ -178,8 +188,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ],
@@ -225,7 +235,7 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "43571c5bf6254bd4",
+  "active": "cf4b47c855f84665",
   "lastOpenFiles": [
     "01. 🗓️ Project/BootBox/work-report/from 11-04 to 11-08.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
