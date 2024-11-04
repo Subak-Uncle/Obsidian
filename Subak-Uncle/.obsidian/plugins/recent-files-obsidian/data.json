@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-05",
+      "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md"
+    },
+    {
       "basename": "알림 종류",
       "path": "01. 🗓️ Project/RunningHi/알림 종류.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Branch 관련",
       "path": "03. ⭐️ Resource/Git/Branch 관련.md"
-    },
-    {
-      "basename": "커밋 혹은 변경사항 롤백",
-      "path": "03. ⭐️ Resource/Git/커밋 혹은 변경사항 롤백.md"
     }
   ],
   "omittedPaths": []
