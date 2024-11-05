@@ -67,7 +67,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f67b8fbadd367e9",
@@ -234,7 +235,7 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "43571c5bf6254bd4",
+  "active": "17bf0028dc2231a2",
   "lastOpenFiles": [
     "01. 🗓️ Project/Adregamdi/레디스 서버 살리는 명령어.md",
     "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md",
