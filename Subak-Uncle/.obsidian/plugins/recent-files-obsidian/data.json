@@ -5,6 +5,14 @@
       "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md"
     },
     {
+      "basename": "2024-11-04",
+      "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-04.md"
+    },
+    {
+      "basename": "2024-11-02",
+      "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-02.md"
+    },
+    {
       "basename": "알림 종류",
       "path": "01. 🗓️ Project/RunningHi/알림 종류.md"
     },
@@ -125,10 +133,6 @@
       "path": "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md"
     },
     {
-      "basename": "2024-11-04",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md"
-    },
-    {
       "basename": "from 11-04 to 11-08",
       "path": "01. 🗓️ Project/BootBox/work-report/from 11-04 to 11-08.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "대한민국 행정구영",
       "path": "01. 🗓️ Project/BootBox/대한민국 행정구영.md"
-    },
-    {
-      "basename": "2024-11-02",
-      "path": "02. 🏙️ Area/daily-note/2024-10/2024-11-02.md"
     },
     {
       "basename": "2024-10-31",
@@ -195,10 +195,6 @@
     {
       "basename": "Submodule",
       "path": "03. ⭐️ Resource/Git/Submodule.md"
-    },
-    {
-      "basename": "Branch 관련",
-      "path": "03. ⭐️ Resource/Git/Branch 관련.md"
     }
   ],
   "omittedPaths": []

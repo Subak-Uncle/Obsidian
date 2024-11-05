@@ -67,8 +67,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1f67b8fbadd367e9",
@@ -205,18 +204,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 🗓️ Project/RunningHi/알림 종류.md"
+                "file": "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md"
               },
               "icon": "lucide-list",
-              "title": "알림 종류 개요"
+              "title": "2024-11-05 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +236,11 @@
   },
   "active": "43571c5bf6254bd4",
   "lastOpenFiles": [
-    "01. 🗓️ Project/RunningHi/알림 종류.md",
+    "02. 🏙️ Area/daily-note/2024-11/2024-11-04.md",
+    "02. 🏙️ Area/daily-note/2024-11/2024-11-02.md",
     "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md",
+    "02. 🏙️ Area/daily-note/2024-11/2024-11-01.md",
+    "01. 🗓️ Project/RunningHi/알림 종류.md",
     "01. 🗓️ Project/RunningHi/아키텍처.md",
     "01. 🗓️ Project/RunningHi/러닝하이 - Tasks.md",
     "01. 🗓️ Project/RunningHi/러닝 기록 측정 계산법.md",
@@ -271,13 +272,10 @@
     "Untitled diagram-2024-08-28-162711.png",
     "Tasks-Canvas.canvas",
     "01. 🗓️ Project/RunningHi/FCM 알림 발송 정리.md",
-    "02. 🏙️ Area/daily-note/2024-10/2024-11-04.md",
     "03. ⭐️ Resource/ETC",
     "03. ⭐️ Resource/Nginx",
     "01. 🗓️ Project/BootBox/work-report/from 11-04 to 11-08.md",
     "02. 🏙️ Area/Tasks/All Tasks.md",
-    "01. 🗓️ Project/BootBox/work-report/10월 5주차 업무 보고.md",
-    "06. 📝 templates/메타 데이터.md",
     "images",
     "05. 🖼️ images/Pasted image 20241017170701.png",
     "무제 파일.canvas",
