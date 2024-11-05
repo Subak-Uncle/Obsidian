@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "git reset",
+      "path": "03. ⭐️ Resource/Git/git reset.md"
+    },
+    {
       "basename": "2024-11-05",
       "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md"
+    },
+    {
+      "basename": "깃허브 클론 후 세팅법",
+      "path": "01. 🗓️ Project/RunningHi/React-Native/깃허브 클론 후 세팅법.md"
     },
     {
       "basename": "레디스 서버 살리는 명령어",
@@ -191,14 +199,6 @@
     {
       "basename": "MySQL 계정 생성",
       "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
-    },
-    {
-      "basename": "zustand",
-      "path": "03. ⭐️ Resource/Front/zustand.md"
-    },
-    {
-      "basename": "Submodule",
-      "path": "03. ⭐️ Resource/Git/Submodule.md"
     }
   ],
   "omittedPaths": []
