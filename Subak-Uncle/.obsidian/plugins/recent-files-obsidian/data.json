@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-06",
+      "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-06.md"
+    },
+    {
       "basename": "2024-11-05",
       "path": "02. 🏙️ Area/daily-note/2024-11/2024-11-05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AnuPpuccin",
       "path": "03. ⭐️ Resource/About-Obsidian/AnuPpuccin.md"
-    },
-    {
-      "basename": "MySQL 계정 생성",
-      "path": "03. ⭐️ Resource/DataBase/MySQL 계정 생성.md"
     }
   ],
   "omittedPaths": []
