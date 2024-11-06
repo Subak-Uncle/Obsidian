@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PRD",
+      "path": "01. 🗓️ Project/BootBox/story-board/PRD.md"
+    },
+    {
       "basename": "공부해야 할 키워드 목록",
       "path": "02. 🏙️ Area/keywords/공부해야 할 키워드 목록.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "닮은 연예인 찾기 웹 애플리케이션",
       "path": "03. ⭐️ Resource/Gemini API Hackathon/닮은 연예인 찾기 웹 애플리케이션.md"
-    },
-    {
-      "basename": "우분투 하드디스크 사용량 조회",
-      "path": "03. ⭐️ Resource/Git/우분투 하드디스크 사용량 조회.md"
     }
   ],
   "omittedPaths": []
