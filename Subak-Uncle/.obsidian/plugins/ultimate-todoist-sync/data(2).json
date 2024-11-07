@@ -1,0 +1,89 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 60,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2336961467",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6VqxJxmgPpx7QgP3",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2336961518",
+        "parentId": null,
+        "order": 1,
+        "color": "charcoal",
+        "name": "자택 🏡",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6VqxM8JqMfJ9cwRG",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [],
+    "events": [
+      {
+        "event_date": "2024-07-28T15:40:54.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "자택 🏡",
+          "note_count": 0
+        },
+        "extra_data_id": 24825108273,
+        "id": 24738795072,
+        "initiator_id": null,
+        "object_id": "2336961518",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6VqxM8JqMfJ9cwRG",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2024-07-28T15:39:40.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 24825101224,
+        "id": 24738788020,
+        "initiator_id": null,
+        "object_id": "2336961467",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6VqxJxmgPpx7QgP3",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      }
+    ]
+  },
+  "fileMetadata": {
+    "02. 🏙️ Area/daily-note/2024-07-29.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "af01b9293f1dc622c4f4f38a2c8e533d731e75bb"
+}
