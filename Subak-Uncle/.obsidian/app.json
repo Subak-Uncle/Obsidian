@@ -1,0 +1,14 @@
+{
+  "autoConvertHtml": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "05. 🖼️ images",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 81
+  },
+  "promptDelete": false
+}

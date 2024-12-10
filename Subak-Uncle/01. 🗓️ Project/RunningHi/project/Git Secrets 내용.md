@@ -1,0 +1,45 @@
+
+## 공통
+
+```
+SSH_PRIVATE_KEY : /home/cicd/cicd-privatekey.pem
+```
+
+
+## Develop
+```
+SERVER_USERNAME: cicd
+SERVER_PORT: 10238
+SERVER_HOST: runninghi-dev.store
+MYSQL_USERNAME: runninghi
+MYSQL_PASSWORD: !Fjsldgkdl2024
+DOCKER_PORT: 10248
+DOCKER_IP: 172.20.0.3
+DEV_APPLICATION_YML: 야믈 파일
+```
+
+
+## Prod
+```
+AWS_ACCOUNT_ID: 982081050301
+AWS_REGION: ap-northeast-2
+PROD_DOCKER_RUN_AWS_JSON: submodule 확인
+EB_APPLICATION_NAME: runninghi
+EB_ENVIRONMENT_NAME: Runninghi-env
+MYSQL_USERNAME: runninghi
+MYSQL_PASSWORD: !Fjsldgkdl2024
+DOCKERHUB_USERNAME: kimjongwan
+```
+
+-- before 2024.11.26
+```
+SERVER_USERNAME: cicd
+SERVER_PORT: 20238
+SERVER_HOST: runninghi.store
+MYSQL_USERNAME: runninghi
+MYSQL_PASSWORD: !Fjsldgkdl2024
+DOCKER_PORT: 20248
+DOCKER_IP: 172.20.0.2
+PROD_APPLICATION_YML: 야믈 파일
+```
+

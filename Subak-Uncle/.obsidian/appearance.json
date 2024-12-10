@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#3aa9ee",
+  "enabledCssSnippets": [
+    "color-extend",
+    "custom-background"
+  ],
+  "interfaceFontFamily": "Inter"
+}
