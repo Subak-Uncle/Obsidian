@@ -15,11 +15,11 @@
   "darlal-switcher-plus",
   "obsidian-pandoc",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-tasks-plugin",
   "obsidian-style-settings",
   "obsidian-custom-frames",
   "todoist-sync-plugin",
-  "ultimate-todoist-sync"
+  "ultimate-todoist-sync",
+  "obsidian-git"
 ]
